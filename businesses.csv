@@ -1,0 +1,602 @@
+business_id,name,neighborhood,address,city,state,postal_code,latitude,longitude,stars,review_count,is_open,Mon,Tue,Wed,Thu,Fri,Sat,Sun
+Po0QGzgwFrfnGJEi_akCjA,"Korean Garden BBQ House","Chinatown","4355 Spring Mountain Rd",Las Vegas,NV,89102,36.125908,-115.197904,3.0,260,1,11-23,11-23,11-23,11-23,11-23,11-23,11-23
+aWYWNfHuQJyRwDHaHq8X1w,"Tex Tubb's Taco Palace","Williamson - Marquette","2009 Atwood Ave",Madison,WI,53704,43.0920977,-89.3547317,3.5,242,1,11-21,11-21,11-22,11-22,11-23,10-23,10-21
+jmyvOW6G2T1fIePvajB4nQ,"Cuba Cafe","Southeast","2055 E Tropicana Ave",Las Vegas,NV,89119,36.1002598,-115.1251555,4.0,261,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+kHpXJ2vciumu2KhNHg0hYA,"Majerle's Sports Grill","","24 N 2nd St",Phoenix,AZ,85004,33.4484654,-112.0712574,3.5,228,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+y_3IkHGoSkZlAqdkrMG-1w,"Mardi Gras Hotel & Casino","Eastside","3500 Paradise Rd",Las Vegas,NV,89169,36.125652,-115.153687,2.0,202,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+WOd8tWsh2Yt_osHv-ngx_w,"Universel","Ville-Marie","2055 Rue Peel",Montréal,QC,H3A 1V4,45.5015765,-73.5755787,4.0,251,1,7-22,7-22,7-23,7-0,7-0,7-0,7-22
+tNJkfAMdwznUX4l31cgq4Q,"Bluegreen Vacations Club 36, Ascend Resort Collection","Eastside","372 East Tropicana Ave",Las Vegas,NV,89169,36.103149,-115.156798,3.0,215,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+F80c5w4dUF1QoFcJG4JrmQ,"Sweet Melissa","","19337 Detroit Rd",Rocky River,OH,44116,41.4813363086,-81.8366502362,3.5,239,1,11-21,11-22,11-22,11-22,11-23,9-23,9-21
+RVTxiiWQwmeSJonJgYwwWg,"teres : A Nail Bar","","7120 E Indian School Rd, Ste H",Scottsdale,AZ,85251,33.49549,-111.92749,4.0,201,1,10-19,9-19,9-19,9-19,9-19,10-19,10-16
+Kuv-QSWUtOm5IjAxcFMl8A,"Luna Bakery Cafe","","2482 Fairmount Blvd",Cleveland,OH,44106,41.5005333,-81.5921431,4.0,207,1,7-19,7-19,7-19,7-19,7-19,8-17,8-17
+AZQKMMvX9m1-uTdLPMzK3g,"Spokes On Southern","","1470 E Southern Ave",Tempe,AZ,85282,33.3930144,-111.9146171,4.0,224,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+JR2ma-JU1CO_xVD_p5-RPw,"Joe's Crab Shack","","1606 W Baseline",Tempe,AZ,85283,33.3787501,-111.9663674,3.0,217,1,11-0,11-0,11-0,11-0,11-0,11-0,11-0
+nxCRx5_US4XLxufkF6-Tlw,"SuperShuttle","","",Phoenix,AZ,85040,33.4040693,-112.029752,4.0,253,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+YQFcxE9UXrKc-QuTUu7twQ,"Loco Patron","","4228 N Scottsdale Rd",Scottsdale,AZ,85251,33.4977693,-111.9264149,3.5,274,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+A6qvHu4tVEKzwjZjWSCeRQ,"V - The Ultimate Variety Show","The Strip","3663 S Las Vegas Blvd, #360B",Las Vegas,NV,89109,36.1107409676,-115.168835459,4.0,288,1,19-22,19-22,19-22,19-22,19-22,19-22,19-22
+5pMNyj77S1P3rrT69y1pkQ,"Joe's New York Pizza","","7321 E Shoeman Ln",Scottsdale,AZ,85251,33.500516,-111.923299,3.5,238,1,9-4,9-4,9-4,9-4,9-4,9-4,9-4
+BkIZ8UDA23qxnp_kR1Sv8Q,"Eggspectation","Ville-Marie","190 Sainte-Catherine Ouest",Montréal,QC,H2X 2X3,45.5073024199,-73.5658770571,4.0,231,1,6-16,6-16,6-16,6-16,6-16,7-16,7-16
+q10IXjtZqao66bVtPExTXw,"Parker & Sons","","3636 E Anne St, Ste A",Phoenix,AZ,85040,33.4138514,-112.0022908,3.5,269,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+ZPAkg2phFo_p3U-QjvHVPw,"Mama Santa's","Little Italy","12301 Mayfield Rd",Cleveland,OH,44106,41.5088425,-81.5972284,3.0,207,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+iPPzDL_oY8SJCjmycuXcVg,"buzzberry","","5959 N Granite Reef Rd",Scottsdale,AZ,85250,33.523554,-111.899784,3.5,202,1,5-5,5-5,5-5,5-5,5-5,5-5,5-5
+jBs2HmEOkqCvdHNnw3N-og,"Red Robin Gourmet Burgers","Centennial","7860 W. Tropical Parkway",Las Vegas,NV,89149,36.271428,-115.266543,3.5,225,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+FML0YqZ7dLBBC3Suap4_4Q,"416 Snack Bar","Alexandra Park","181 Bathurst Street",Toronto,ON,M5T 2R7,43.6475413,-79.4038619,4.0,215,1,17-2,17-2,17-2,17-2,12-2,12-2,12-2
+H8qlBw1YaxMsItfz25-AyA,"John Cutter","Summerlin","11770 W Charleston Blvd",Las Vegas,NV,89135,36.159014,-115.351342,3.0,241,1,6-6,6-6,6-6,6-6,6-6,6-6,6-6
+AuIiqDeL65kczmiFSkAWrA,"Maggiano's Little Italy","South Park","4400 Sharon Rd",Charlotte,NC,28211,35.1521570238,-80.8302691114,3.5,235,1,11-22,11-22,11-22,11-22,11-23,11-23,11-21
+sAXy1yJRLllTm5WrJbJGAA,"Del Frisco's Double Eagle Steak House","South Park","4725 Piedmont Row Dr, Ste 170",Charlotte,NC,28210,35.1517086588,-80.8394172192,4.0,230,1,17-22,17-22,17-22,17-22,17-23,17-23,17-21
+nnB9aw5tLaYZHgAvwzpPOg,"Irish Wolfhound","","16811 N Litchfield Rd",Surprise,AZ,85374,33.6368237659,-112.359013291,4.0,227,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+Bkkwt8E9MHvgCHn4lUFtow,"Roy's Restaurant","","5350 E Marriott Dr",Phoenix,AZ,85054,33.6834609026,-111.965779048,3.5,246,1,16-22,16-22,16-22,16-22,16-23,16-23,16-21
+H85um1dDQHAeUJ6AqYIqww,"Move 4 Less","Spring Valley","7632 W Post Rd",Las Vegas,NV,89113,36.0741662,-115.2576408,4.0,263,1,8-18,8-18,8-18,8-18,8-18,8-17,8-17
+cNz2tTTAPmdeAq6HnGeo8w,"Roland's Seafood Grill","Strip District","1904 Penn Ave",Pittsburgh,PA,15222,40.4505899,-79.9842832,2.5,241,1,11-0,11-0,11-0,11-0,11-2,11-2,11-0
+sH-11zOhWubXobEeuMo2gg,"Oink","Old Town","34 Victoria Street, Old Town",Edinburgh,EDH,EH1 2JW,55.948585,-3.1939987,4.5,205,1,11-17,11-17,11-17,11-17,11-17,11-17,11-17
+82I9SSilxh3zL8F1UQ45Xw,"Uncle Bear's Brewery","","4921 E Ray Rd, Ste 103",Phoenix,AZ,85044,33.317170576,-111.976508211,3.5,246,1,11-23,11-23,11-23,11-23,11-1,11-1,11-23
+A6nY4SCrMuLPtlbq-EKnfA,"The Living Room","","2475 W Queen Creek Rd, Ste 1",Chandler,AZ,85248,33.2611752,-111.8840725,3.5,275,1,11-23,11-23,11-23,11-23,11-2,11-2,11-23
+JOoblYsQjFT-47tkt6om0A,"7 West Cafe","Downtown Core","7 Charles Street W",Toronto,ON,M4Y 1R4,43.6685661933,-79.3865257502,3.5,275,1,6-6,6-6,6-6,6-6,6-6,6-6,6-6
+JQLi-Ow9pg391iMzw5LSwg,"Mary's Hash House","Westside","2605 S Decatur Blvd, Ste 103",Las Vegas,NV,89102,36.142094,-115.209418,4.0,272,1,6-14,6-14,6-14,6-14,6-14,6-14,6-14
+hDD6-yk1yuuRIvfdtHsISg,"Nakama","South Side","1611 E Carson St",Pittsburgh,PA,15203,40.4290289,-79.9822249,3.0,246,1,11-22,11-22,11-22,11-23,11-23,11-23,13-22
+i1Xkm22_96GNVVOXSUoL0A,"The Captain's Boil","Willowdale","5313 Yonge St",Toronto,ON,M2N 5R4,43.7733186,-79.4135718,3.5,233,1,11-0,11-0,11-0,11-0,11-1,11-1,11-0
+Uq-GOs9_IqweUsB5MdII9w,"Emma's Country Kitchen","","810 Saint Clair Avenue W",Toronto,ON,M6C 1B6,43.6809039,-79.4303387,4.0,247,1,8-16,8-17,8-16,8-16,8-16,9-15,9-15
+M10n-ivjDkkdLaxIYNafFQ,"Queen City Q","First Ward","225 E 6th St, Ste A",Charlotte,NC,28202,35.2274621,-80.8388937,3.5,271,1,11-12,11-12,11-12,11-12,11-12,11-12,11-12
+CElwRv4CtK56NljAuCwepw,"Babbo Italian Eatery","","6855 N 16th St",Phoenix,AZ,85016,33.537514,-112.047195,4.0,232,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+A7jbtXYFAZhErOW7xIQinA,"Mother's Korean Grill","Chinatown","4215 Spring Mountain Rd",Las Vegas,NV,89102,36.1253808,-115.1959803,3.0,263,1,9-2,9-2,9-2,9-2,9-2,9-2,9-2
+uE1sIGWRJwpLPN858FRPRw,"Hershey's Chocolate World","The Strip","New York New York Hotel & Casino, 3790 Las Vegas Blvd S",Las Vegas,NV,89109,36.102415,-115.174568,3.5,236,1,9-23,9-23,9-23,9-23,9-0,9-0,9-23
+qxlZ-hy9MIses8t65uDkkA,"The Saguaro Scottsdale","","4000 N Drinkwater Blvd",Scottsdale,AZ,85251,33.4941213,-111.9227616,3.5,238,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+hHe1mFDxxrtejXHfiysJJg,"The Melting Pot","Westside","8704 W Charleston Blvd",Las Vegas,NV,89117,36.1595314696,-115.285329107,4.0,211,1,17-22,17-22,17-22,17-22,17-23,16-23,12-21
+tnG4_L5bZiffTbaFru9EBg,"Princess Mediterranean Market & Deli","","2620 W Broadway Rd",Mesa,AZ,85202,33.407997,-111.887898,4.5,241,1,9-20,9-20,9-20,9-20,9-20,10-20,10-19
+yF-KH1l-rLVJaON8gfpyig,"Red Robin Gourmet Burgers","","1300 W Sunset Rd, Ste 2545",Henderson,NV,89014,36.0667426618,-115.041837209,3.0,213,1,11-22,11-22,11-22,11-22,11-22,11-22,11-20
+LI9sVHgnX-DzFyvWmPDRgA,"Guru Lukshmi- Authentic South Indian Cuisine","Meadowvale Village","7070 Saint Barbara Boulevard, Unit 45",Mississauga,ON,L5W 0E6,43.638828,-79.716706,4.0,229,1,12-15,12-15,17-22,12-15,17-22,17-22,17-22
+F-PmkzyN80fVcNMN8Z2aiw,"Z'Tejas Southwestern Grill","","10625 N Tatum Blvd",Phoenix,AZ,85028,33.5834449,-111.9770187,3.5,220,1,11-22,11-22,11-22,11-22,11-23,10-23,10-21
+6Wc5DPXGudcNi2XK7QfQtA,"Canyon Cafe","","455 N 3rd St, Ste 114",Phoenix,AZ,85004,33.4521542,-112.0686202,3.5,290,1,11-21,11-22,11-22,11-22,11-22,11-22,11-21
+1dYpffQi3qdh-dkXF4LZBw,"Burgatory","Homestead","299 W Bridge St",Homestead,PA,15120,40.4071527935,-79.9177637822,4.0,215,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+bRntmjztJ4dFDA_LYiEECw,"Snakes & Lattes Annex","Koreatown","600 Bloor Street W",Toronto,ON,M6G 1K4,43.6648328,-79.413156,4.0,273,1,11-0,11-0,11-0,11-1,11-2,11-2,11-0
+h4Q-uSoOIhMoIsOhat6l3A,"Casa Don Juan  - Summerlin","Summerlin","1780 N Buffalo Dr",Las Vegas,NV,89128,36.1914358127,-115.259783083,4.0,226,1,9-22,9-22,9-22,9-22,9-22,9-22,9-22
+xxo0GsAFxQzUGStmCG6jWw,"Genghis Grill","","2000 E Rio Salado Pkwy, Ste 1151",Tempe,AZ,85281,33.4324152,-111.9052063,3.5,284,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+nFR7dDedxRuBeZz_6Cdalg,"Cantina Laredo","","7361 E Frank Lloyd Wright Blvd",Scottsdale,AZ,85260,33.6368494,-111.9217185,3.5,240,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+BKLWat64KRYzsT2DgY6Xxg,"Jarling's","","309 W Kirby Ave",Champaign,IL,61820,40.0977213,-88.2477415,4.0,207,1,12-22,12-22,12-22,12-22,12-22,12-22,12-22
+zMnojW6x-1-nVu0uCd60Ew,"Whiskey Warehouse","","1221 The Plz",Charlotte,NC,28203,35.2191789,-80.811155,3.5,206,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+1WBVqmo7tgF0z0eGf4fPhQ,"Pasta Idea","Summerlin","7668 W Lake Mead Blvd, Unit 107",Las Vegas,NV,89128,36.1969444,-115.2621175,4.5,224,1,11-21,11-21,11-21,11-21,11-21,11-21,11-20
+Dqzkdf0sz8lm9AFjfsDmIw,"The Keg Steakhouse + Bar","","23 S McClintock Dr",Tempe,AZ,85281,33.4325515877,-111.907124519,4.0,254,1,16-23,16-23,16-23,16-23,16-23,16-23,16-22
+3QQEc5QUP-h6LCkUZQEYQw,"Santisi Brothers","","2710 W Bell Rd, Ste 1115",Phoenix,AZ,85053,33.6416138361,-112.117387241,4.0,295,1,14-0,14-0,14-0,14-2,11-2,11-2,11-0
+nkHaix6KenApS8M-liZsCQ,"Christopher's and Crush Lounge","","2502 E Camelback Rd, Ste 102",Phoenix,AZ,85016,33.511417,-112.02855,4.0,259,1,11-0,11-1,11-1,11-1,11-1,11-1,12-21
+fqBnZxSkG287OOyU9LvTig,"Bar Hop","Entertainment District","391 King Street W",Toronto,ON,M5V 1K1,43.6456333,-79.3935433,4.0,230,1,12-2,12-2,12-2,12-2,12-2,12-2,12-2
+NgDyxaeItFSInv7J5paGLQ,"The Kettle Black Kitchen & Pub","","1 N 1st St, Ste 108",Phoenix,AZ,85004,33.4485961,-112.0721686,4.5,228,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+8nNB_yG1gzVpbqNH2EBucg,"Z'Tejas","","7221 W Ray Rd",Chandler,AZ,85226,33.319228,-111.967855,3.5,263,1,11-22,11-22,11-22,11-22,11-23,10-23,10-21
+ebEP_MZngIWKH0Ixobcqhg,"Sunset Park","Southeast","2601 E Sunset Rd",Las Vegas,NV,89120,36.0681973,-115.1122712,4.0,206,1,6-23,6-23,6-23,6-23,6-23,6-23,6-23
+M-SS_Kr0zlC7v8kBSRa74g,"Hokaido Sushi","Spring Valley","6015 S Fort Apache Rd, Ste 150",Las Vegas,NV,89148,36.0789703,-115.298266,4.0,259,1,11-0,11-0,11-0,11-0,11-1,11-1,11-23
+gHngt6zpP683GKe1i23LUg,"Grand Concourse","South Side","100 West Station Square Dr",Pittsburgh,PA,15219,40.433077,-80.003773,3.5,280,1,11-22,11-22,11-22,11-22,11-23,11-23,9-21
+KhWl4Mwhm_Oqq0zIIz-0wQ,"Carnival World & Seafood Buffet","","Rio All-Suite Hotel & Casino, 3700 W Flamingo Road",Las Vegas,NV,89103,36.1178127431,-115.187409811,2.5,255,1,8-22,8-22,8-22,8-22,8-22,8-22,8-22
+fUKi8LlQhzsGntuZjfvLWg,"Rice Republic","South Summerlin","2120 Festival Plaza Dr",Las Vegas,NV,89135,36.1493562,-115.3332506,3.0,230,1,11-21,11-21,11-21,11-21,11-21,11-21,11-21
+-_TSaVr53qiEGqMkwyEMaQ,"Parsley Modern Mediterranean","","4985 W Tropicana Ave",Las Vegas,NV,89103,36.1002691,-115.2092345,4.5,200,1,10-22,10-22,10-22,10-22,10-22,11-22,11-22
+-sN_og_84rLW22CaE3cjVw,"Full House BBQ","Southeast","9890 S Maryland Pkwy, Unit D19",Las Vegas,NV,89183,36.0100493007,-115.135391635,4.0,225,1,11-21,11-21,11-21,11-21,11-21,11-21,11-21
+odVKlMYqb4FHJXManv-VRA,"Grabbagreen","","15689 N Hayden Rd",Scottsdale,AZ,85260,33.6281331589,-111.891825438,4.0,218,1,7-21,7-21,7-21,7-21,7-21,7-21,9-21
+_y1Et7f4NE6D1P1GzphlIw,"Blaze Fast-Fire'd Pizza","Centennial","6211 N Decatur Blvd",Las Vegas,NV,89130,36.2717805646,-115.207198266,4.5,259,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+fUEHk00pkkuXaGdHQa2eKg,"BMW North Scottsdale","","18018 N. Scottsdale Road",Phoenix,AZ,85054,33.6489195,-111.9264039,4.0,209,1,8-20,8-20,8-20,8-20,8-20,9-18,11-17
+2s2ww6WaulfOEI16s1uyDg,"Cafe Darak","Spring Valley","8665 W Flamingo Rd, Ste 105",Las Vegas,NV,89147,36.1145216983,-115.281079035,4.0,265,1,12-2,12-2,12-2,12-2,12-2,12-2,12-2
+fbLYRHIZAt3q839whhaBUg,"Oregano's Pizza Bistro","","4602 E Cactus Rd",Phoenix,AZ,85032,33.5996610763,-111.98229337,3.5,210,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+M5gj8a6Qtjy06lh3L5zUqA,"Royal Palms Resort and Spa, in the Unbound Collection by Hyatt","","5200 E Camelback Rd",Phoenix,AZ,85018,33.5050197247,-111.968799412,4.5,205,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+qiRyyRWt6jmAxcoVW0-WHA,"Heart Sushi","East Credit","815 Britannia Road W, Unit 2",Mississauga,ON,L5V 2X8,43.6105329658,-79.6984212268,3.5,239,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+hCsJv234v62MgdsUU1j8dQ,"Big Sur Oyster Bar","Southeast","South Point Hotel & Casino, 9777 S Las Vegas Blvd",Las Vegas,NV,89183,36.0121912,-115.1739932,3.5,203,1,12-0,12-0,12-0,12-0,12-0,11-0,11-0
+Ffhe2cmRyloz3CCdRGvHtA,"Earl of Sandwich","","Palms Casino Resort, 4321 W. Flamingo Rd",Las Vegas,NV,89103,36.114345,-115.195589,4.0,204,1,6-0,6-0,6-0,6-0,6-1,6-1,6-22
+WmLTIN4qzZ8SjpPxsPH27Q,"Windy City Beefs N Dogs","","7500 W Lake Mead Blvd, Ste 10",Las Vegas,NV,89128,36.1974376,-115.257775,4.5,256,1,10-20,10-20,10-20,10-20,10-20,10-20,10-18
+iw9p7E4bMe1YW-APcFGjgQ,"PKWY Tavern","Spring Valley","9820 W Flamingo Rd",Las Vegas,NV,89147,36.1158076406,-115.306274197,3.0,290,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+UK2Onb024Azao0DrTHSvhg,"Yanni's Greek Grill","Southeast","9620 S Las Vegas Blvd, Ste E-7",Las Vegas,NV,89123,36.0148375673,-115.171262962,4.5,223,1,11-20,11-20,11-20,11-20,11-20,11-20,11-18
+ukMx8YJRoPWv1JSJAwjuWg,"Windy City Wash and Wax","","4790 Polaris Ave",Las Vegas,NV,89103,36.1029789702,-115.185069409,4.5,249,1,7-19,7-19,7-19,7-19,7-19,7-19,7-19
+QteBKpZTRa2dJ3u7MLiXww,"Los Tacos","Downtown","1710 E Charleston Blvd",Las Vegas,NV,89104,36.1584563,-115.1275613,4.0,215,1,10-22,10-22,10-22,10-22,10-22,10-22,10-22
+-ipc5f0XiXwH3hbNnro54Q,"Regal Cinemas Red Rock 16 & IMAX","South Summerlin","11011 West Charleston Blvd",Las Vegas,NV,89135,36.1551327,-115.334816,4.0,207,1,11-23,11-23,11-23,11-23,11-23,11-23,11-23
+npWIa3dIPEV1MTaZNq6AUA,"Firebirds Wood Fired Grill","","7716 Rea Rd",Charlotte,NC,28277,35.0620547,-80.815844,4.0,226,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+Fx5haZv9PP3E7Ljp-h7B1Q,"Eggspectation","Downtown Core","483 Bay Street",Toronto,ON,M5H 2C9,43.6532721,-79.3812455,4.0,257,1,7-16,7-16,7-16,7-16,7-16,7-17,7-17
+VuCrxI61nT30OndMcrPgkA,"Sip Coffee & Beer House","","3617 N Goldwater Rd",Scottsdale,AZ,85251,33.489574,-111.926671,4.5,262,1,7-21,7-21,7-21,7-21,7-23,7-23,7-21
+8B1TIuaqhaZ7QMEhDUu-Gg,"D'Lite Healthy On The Go","","1135 E Apache Blvd",Tempe,AZ,85281,33.4144553,-111.9207409,4.0,208,1,6-16,6-16,6-16,6-16,6-16,7-16,7-16
+_mg5bYknpZgaWSfjQVmrJQ,"Spinato's Pizzeria","","5509 N 7th St",Phoenix,AZ,85014,33.5170064113,-112.064651345,4.0,221,1,11-21,11-21,11-21,11-21,11-22,11-22,12-20
+ydqbNz2sHENV9XOElwyAYA,"Blue Adobe Grille","","10885 N Frank Lloyd Wright Blvd",Scottsdale,AZ,85259,33.5852812,-111.8347721,4.0,254,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+1WHM7EnTMSjteM9UEr86tA,"Showcase Honda","","1333 E Camelback Rd",Phoenix,AZ,85014,33.5085849,-112.052742,2.5,296,1,8-21,8-21,8-21,8-21,8-21,8-21,10-19
+TLMysu1mWiLEslCBon5W1g,"Sidecar","Little Italy","577 College Street",Toronto,ON,M6G 1B2,43.6552003,-79.4130828,4.0,212,1,17-2,17-2,17-2,17-2,17-2,17-2,17-2
+5j2ugUALtjsa2nkV1YGq5Q,"House Modern Sushi Restaurant","","1641 S Stapley Dr, Ste 103",Mesa,AZ,85204,33.3846485,-111.8027455,4.0,222,1,11-22,11-22,11-22,11-22,11-23,11-23,12-21
+cwCLcQns_SSExsBCzWNQDA,"Phat Burrito","South End","1537 Camden Rd",Charlotte,NC,28203,35.2150212,-80.8565352,3.5,269,1,7-21,7-21,7-21,7-21,7-23,8-23,8-21
+GqjC12LAufljzZmMcPSPJw,"The Gilbert House","","397 S Gilbert Rd",Gilbert,AZ,85296,33.343131,-111.789408,4.0,217,1,7-14,7-14,7-14,7-14,7-14,7-14,7-14
+9Eghhu_LzEJgDKNgisf3rg,"SCADDABUSH Italian Kitchen & Bar","Downtown Core","382 Yonge Street, Unit #7",Toronto,ON,M5B 1S8,43.6592789,-79.3824692,3.5,294,1,11-1,11-1,11-1,11-2,11-2,11-2,11-1
+mXyLqsbe7FT1X8ZFOP8WpQ,"Blue 32 Sports Grill","","1524 E Williams Field Rd",Gilbert,AZ,85295,33.307307,-111.7573862,4.0,277,1,11-23,11-23,11-23,11-23,11-1,11-1,11-22
+axi57Y3h5c8BxM1Xyj0KBw,"Grimaldi's Coal Brick-Oven Pizza","","2168 E Williams Field Rd",Gilbert,AZ,85295,33.3095749752,-111.743795679,4.0,293,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+T1tvWywCdTv8YiK-r_roLw,"Aloha Yogurt","","219 E Baseline Rd, Ste 5",Tempe,AZ,85283,33.3777879,-111.9364361,4.5,216,1,11-23,11-23,11-23,11-23,11-0,11-0,11-23
+b1WGIdd_oSwGYZtC769Shw,"Rachel's Kitchen","Centennial","7010 N Durango Dr, Ste 140",Las Vegas,NV,89149,36.2884223309,-115.286549547,4.0,268,1,7-21,7-21,7-21,7-21,7-21,7-21,7-21
+bXbCGFk3ZjLcTdQQB-xPyQ,"Luciano's Ristorante Italiano","South End","1910 South Blvd",Charlotte,NC,28203,35.210707,-80.859637,4.5,216,1,11-22,11-22,11-22,11-22,11-23,11-23,11-21
+rNqSjfRM09T-VOjRTAF66g,"Phoenix Palace","","2075 N Dobson Rd",Chandler,AZ,85224,33.3370652759,-111.875395511,3.5,290,1,10-22,10-22,10-22,10-22,10-22,10-22,10-22
+3b14ebd1k9y7VJbp5hC0gg,"Beaudevin","","Charlotte-Douglas International Airport, 5501 R C Josh Birmingham Pkwy",Charlotte,NC,28208,35.2203324063,-80.9440162454,4.0,201,1,7-22,7-22,7-22,7-22,7-22,7-22,8-22
+gGt00WW8sNY2Sop7jYa7Tw,"Bakersfield East Blvd","Dilworth","1301 East Blvd",Charlotte,NC,28203,35.202035,-80.844459,4.0,252,1,11-0,11-0,11-0,11-0,11-2,11-2,11-22
+rkqTVzTkLaWSUybaWUMIdA,"Red Robin Gourmet Burgers","Southeast","9600 S. Eastern Ave",Henderson,NV,89052,36.0140052,-115.1182226,3.0,251,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+ndTgznMYNe0n26VqzecEKQ,"I Clean Carpets","","5444 E Camelback Rd",Phoenix,AZ,85018,33.5018479894,-111.964966734,5.0,275,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+wrhPNdPh0FfSv3DMS0obhw,"OdySea Aquarium","","9500 E Via De Ventura",Scottsdale,AZ,85256,33.5545531,-111.8760438,2.5,220,1,9-18,9-18,9-18,9-18,9-18,9-21,9-18
+4p6Wce7Ed707QS2-yQkvZw,"Kitchen 56","","3433 N 56th St",Phoenix,AZ,85018,33.4885902682,-111.960350202,3.5,279,1,11-21,11-22,11-22,11-22,11-22,9-22,9-21
+RPO5ISR18Xllgk9ahdPepA,"Tarbell's","","3213 E Camelback Rd",Phoenix,AZ,85018,33.5091275,-112.0124434,4.5,272,1,17-22,17-22,17-22,17-22,17-22,17-22,17-21
+VxRlBe2wjtycFWSZm1orTA,"Piper's Pub","South Side","1828 E Carson St",Pittsburgh,PA,15203,40.4284268,-79.9794308,4.5,291,1,11-1,11-1,11-1,11-1,11-1,9-1,9-1
+TyZnv8aX1OJfBKoyuYgZLQ,"The Dillinger","","1224 Arizona St",Boulder City,NV,89005,35.9783725,-114.8358396,4.0,283,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+Ipkl7KtlqxCe8bMMkwHwPQ,"50's Diner Omelet House","Eastside","3050 E Desert Inn Rd, Ste 140",Las Vegas,NV,89121,36.1305272,-115.1084585,4.0,217,1,7-21,7-21,7-21,7-21,7-21,7-21,7-15
+kZspuWnM0Y-Losvk2Rl0lA,"Cous Cous Mediterranean Cafe","Downtown","450 Fremont St, Unit 123",Las Vegas,NV,89101,36.1700553894,-115.140846252,3.5,224,1,11-23,11-23,11-23,11-23,11-0,11-0,11-23
+OYHpqY6-3C-wXR-uPbHhwA,"Honey Cakes Cafe","Centennial","6475 N Decatur Blvd, Ste 135",Las Vegas,NV,89131,36.2769542958,-115.207793617,3.5,214,1,8-20,8-20,8-20,8-20,8-21,8-21,8-18
+DPZBuTuL7w5MVxsCEyQudQ,"Fry's Electronics","","2300 W Baseline Rd",Tempe,AZ,85283,33.3791142448,-111.971457099,2.5,211,1,9-21,9-21,9-21,9-21,9-21,9-21,9-20
+VzSUgIOcyO7JmTwYDnyivQ,"Flo's","","15027 N Thompson Peak Pkwy",Scottsdale,AZ,85260,33.6211202213,-111.873951123,3.5,273,1,11-22,11-22,11-22,11-22,11-22,12-22,12-22
+l694_5M7NF-5GDxfH2dCNg,"Courtesy Chevrolet","","1233 E Camelback Rd",Phoenix,AZ,85014,33.508246,-112.055093,3.0,293,1,8-21,8-21,8-21,8-21,8-21,8-20,10-18
+s2I_Ni76bjJNK9yG60iD-Q,"Maison Christian Faure","Ville-Marie","355 Place Royale",Montréal,QC,H2Y 1Z6,45.5035444,-73.5544686,4.5,289,1,8-19,8-19,8-19,8-19,8-19,8-19,8-19
+mygLP5-SCnQwIev6LU9gWg,"George's Famous Gyros","","7620 E McKellips Rd, Ste 6",Scottsdale,AZ,85257,33.4517119,-111.9166747,4.5,287,1,11-21,11-21,11-21,11-21,11-21,11-21,11-21
+7qo6rqDjlHds8ObxzxBD4A,"Brooklyn V's Pizza","","894 E Warner Rd, Ste 101",Gilbert,AZ,85296,33.3369592,-111.7713379,4.5,236,1,11-21,11-21,11-21,11-21,11-22,11-22,11-20
+ues2rFe_hbRC7s232PX5QA,"Brocach","Capitol","7 W Main St",Madison,WI,53703,43.0734677463,-89.3833705601,3.5,211,1,11-23,11-23,11-23,11-0,11-2,10-2,10-23
+oa52t2Nfb7sOCqJE5M5hzg,"Rock Lobster","","2475 W Queen Creek Rd",Chandler,AZ,85248,33.2611752,-111.8840725,4.0,252,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+pSMK_FtULKiU-iuh7SMKwg,"Blaze Fast-Fire'd Pizza","Ryerson","10 Dundas St",Toronto,ON,M5B 0A1,43.6565313337,-79.3800427474,4.5,216,1,11-23,11-23,11-23,11-23,11-0,11-0,11-23
+6oKZoCI_0ePyzfRqSFMBig,"Roy's Restaurant","","7151 W Ray Rd",Chandler,AZ,85226,33.3194145644,-111.965975534,4.0,290,1,16-22,16-22,16-22,16-22,16-23,11-23,11-21
+LYNKKnl4jAiU1-U-97gR5Q,"SlotZilla","Downtown","Fremont Street Experience, 425 Fremont St",Las Vegas,NV,89101,36.1613251,-115.1222504,3.5,229,1,13-1,13-1,13-1,13-1,13-2,13-2,13-1
+EWbNTPW0co_X4lZRB-QTLQ,"Ocha Thai Cuisine","Downtown","1201 Las Vegas Blvd S",Las Vegas,NV,89104,36.1566896,-115.148347,4.0,235,1,11-23,11-23,11-23,11-23,11-0,11-0,11-23
+LtO6vTBfYzlgWArn3kRe_A,"Tacos El Gordo","","3260 Losee Rd",North Las Vegas,NV,89030,36.2186522367,-115.125405192,4.0,247,1,9-2,9-2,9-2,9-2,9-4,9-4,9-4
+JBrBsKpw0bbXK5nlrXVOYQ,"Anzios Italian Restaurant","","12418 N 28th Dr",Phoenix,AZ,85029,33.5986481057,-112.12037371,4.0,224,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+N5CL5HLS6lyltw-OjjBrOw,"Hussong's Cantina","Westside","740 S Rampart Blvd, Ste 7",Las Vegas,NV,89145,36.1636050063,-115.289374149,3.5,212,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+Gw-ozqLSHoP3BQPKaiXJGg,"The Watershed","","5350 S Lakeshore Dr",Tempe,AZ,85283,33.3756982,-111.9197979,3.0,267,1,16-22,16-22,16-22,16-22,16-0,10-0,10-20
+VWtT4DKxQ4YVRWT88Z5SMA,"Sambalatte","Spring Valley","6555 S Jones Blvd, Ste 100",Las Vegas,NV,89118,36.0698215199,-115.224872182,4.0,232,1,7-20,7-20,7-20,7-20,7-21,7-21,7-20
+ytk8XVFegCSdSBXLDZutpw,"Bachi Kitchen","Spring Valley","6825 W Russell Rd, Ste 115",Las Vegas,NV,89118,36.0844749,-115.2412756,3.5,267,1,9-21,9-21,9-21,9-21,9-21,9-21,9-21
+H-WYHSzXPWS9Avj0W6SRpg,"The Buffet at Excalibur","The Strip","Excalibur Hotel And Casino, 3850 S Las Vegas Blvd",Las Vegas,NV,89109,36.098909,-115.175557,2.5,216,1,7-22,7-22,7-22,7-22,7-22,7-22,7-22
+mzREMIknfmagJugibXrCsQ,"Pho Tien Thanh","Ossington Strip","57 Ossington Ave",Toronto,ON,M6J 2Y9,43.6455482,-79.4190055,4.0,235,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+b_xFN9mtFWHUbny-GoiErQ,"P&G's Pamela's Diner","Shadyside","5527 Walnut St",Pittsburgh,PA,15232,40.4515828358,-79.932869839,4.0,223,1,8-16,8-16,8-16,8-16,8-16,8-16,8-15
+xaqW4NkmUCGRRjmLxiFJ6Q,"Muncheez","Langstaff","7181 Yonge St, Unit 21",Markham,ON,L3T 0C7,43.8031918,-79.4195095,5.0,253,1,11-23,11-23,11-23,11-23,11-23,11-23,11-23
+bYGn37k0KgleABKMWgjnMw,"El Furniture Warehouse","The Annex","410 Bloor Street W",Toronto,ON,M5S,43.6659178,-79.4079991,3.0,227,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+mmbXj7CmjGbH-wR3j6cD0w,"Sweet Tomatoes","Spring Valley","9460 W Flamingo Rd, Ste 100",Las Vegas,NV,89147,36.1152681022,-115.298301965,3.5,234,1,11-21,11-21,11-21,11-21,11-22,8-22,8-21
+I3STZd5iAvUL9MNLF_DUug,"Blanco Tacos And Tequila","","3400 E Sky Harbor Blvd, Terminal 4",Phoenix,AZ,85034,33.4370684153,-111.999121635,3.5,292,1,6-23,6-23,6-23,6-23,6-23,6-23,6-23
+OFw59czUoeeosFMKfRawmg,"Gordon Biersch Brewery Restaurant","Eastside","3987 Paradise Rd",Las Vegas,NV,89169,36.1170027,-115.1552488,3.5,300,1,11-0,11-0,11-0,11-0,11-1,11-1,11-0
+zkw-peCF6FDKuopAp8LBzw,"Camelback Toyota","","1550 E Camelback Rd",Phoenix,AZ,85014,33.510174,-112.048204,3.5,200,1,7-21,7-21,7-21,7-21,7-21,7-20,10-19
+_sh6mIBWZis66mAjkjN8Qg,"Rachel's Kitchen","Summerlin","9691 Trailwood Dr",Las Vegas,NV,89134,36.1909406,-115.3072017,3.5,209,1,7-20,7-20,7-20,7-20,7-20,7-20,7-16
+WlBvw6R1Qe2yIaZp-2ilZA,"Toros Cantina & Gaming","Summerlin","11760 W Charleston Blvd",Las Vegas,NV,89138,36.1594832749,-115.351678374,3.5,236,1,6-6,6-6,6-6,6-6,6-6,6-6,6-6
+DkZnIPTPce-R2uoF-euYyQ,"DT's Filipino Food","Southwest","7320 S Rainbow Blvd",Las Vegas,NV,89118,36.0553574,-115.2414974,2.5,211,1,10-22,10-22,10-22,10-22,10-2,10-2,10-23
+HaNUXh5nYR0r7FrbFJSHXw,"Whole Foods Market","","7111 E Mayo Blvd",Phoenix,AZ,85054,33.653689494,-111.927307826,4.0,242,1,7-22,7-22,7-22,7-22,7-22,7-22,7-22
+--cZ6Hhc9F7VkKXxHMVZSQ,"Pio Pio","Dilworth","1408 E Blvd",Charlotte,NC,28203,35.1998528426,-80.8448199047,4.0,259,1,11-22,11-22,11-22,11-22,11-22,11-22,12-21
+OPxWcHK96_cbmiF7legDnA,"McCormick & Schmick's Seafood & Steaks","Eastside","335 Hughes Center Dr",Las Vegas,NV,89169,36.1150754866,-115.156941325,3.5,218,1,11-22,11-22,11-22,11-22,11-22,17-22,17-21
+jq9gzjKbVWgeMYzA0aFzxw,"Lola Coffee","","1001 N 3rd Ave",Phoenix,AZ,85003,33.4589695,-112.0774867,4.5,275,1,7-19,7-19,7-19,7-19,7-19,7-19,7-19
+8BG2u8inkqzCb2tm6YlqDw,"Kona Grill","","2224 E Williams Field Rd",Gilbert,AZ,85295,33.3078070226,-111.742225886,3.5,232,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+K75oPh837az2upKWPS2LUQ,"Paul's Pel'meni","Capitol","203 W Gorham St",Madison,WI,53703,43.0754154,-89.3907979,4.5,273,1,11-23,11-23,11-23,11-3,11-3,11-3,11-21
+wHq1efQVz17338k_aUOX3w,"Hob Nobs","","149 W McDowell Rd",Phoenix,AZ,85003,33.465462,-112.078017,4.0,229,1,7-21,7-21,7-21,7-21,7-0,7-0,7-21
+WKOUTdVJS58E178JjhwidQ,"Pastel Creperies & Dessert House","Willowdale","5417 Yonge Street",North York,ON,M2N 5R6,43.7762933,-79.4142988,4.0,217,1,12-23,12-23,12-23,12-23,12-0,12-0,12-23
+po0p6NIro0cDrmKkcyPy0w,"To See Roll","Spring Valley","7040 S Rainbow Blvd, Ste 110",Las Vegas,NV,89113,36.0605553,-115.2417218,4.5,217,1,10-22,10-22,10-22,10-22,10-22,10-22,10-22
+vrKcFQPxj1Zzyj93yl-t6g,"Topgolf","","1689 S SanTan Village Pkwy",Gilbert,AZ,85295,33.3200849,-111.7415906,4.0,257,1,9-23,9-23,9-23,9-23,9-1,9-1,9-23
+a2JgQgEGm5hMDEhryhMMJg,"VEGAS! The Show","The Strip","3663 Las Vegas Blvd S, Ste 454",Las Vegas,NV,89109,36.110975,-115.172145,4.5,240,1,19-23,19-23,19-23,19-23,19-23,19-23,19-23
+SqxIx0KbTmCvUlOfkjamew,"Thai Style Noodle House","Summerlin","2267 N Rampart Blvd",Las Vegas,NV,89134,36.201845,-115.282141,4.0,254,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+uthbVCNZqmExJTzhII9iNQ,"Paramount Fine Foods","Downtown Core","253 Yonge Street",Toronto,ON,M7A 2H1,43.6550676,-79.3800179,3.0,267,1,8-22,8-22,8-22,8-22,8-23,8-23,8-22
+95CCHowiE0W_ovv5-9lQAQ,"Fat Boy","Sunrise","4425 Stewart St, Ste 107",Las Vegas,NV,89110,36.1670439,-115.0801061,4.5,209,1,10-21,10-21,10-21,10-21,10-22,10-22,10-21
+dVhGY-mNwTWQzK01Zxuclw,"Yunnan Garden","Chinatown","3934 Schiff Dr",Las Vegas,NV,89103,36.1249257,-115.1923226,3.5,249,1,11-22,11-22,11-22,11-22,11-22,11-22,11-21
+gHutuGMMMH-5Qv9DbemLFw,"Scott's Generations Restaurant & Delicatessen","","5539 N 7th St, Ste 108",Phoenix,AZ,85014,33.5184314,-112.0641262,3.5,218,1,6-17,6-17,6-17,6-17,6-17,6-17,6-16
+27_N5P9HZ86IviONPT_twg,"Woodlot Restaurant","Little Italy","293 Palmerston Avenue",Toronto,ON,M6J 2J3,43.655641,-79.4099164,4.0,221,1,17-22,17-22,17-22,17-23,17-23,17-23,17-22
+fzRxHv7XnnDqTmX25tVbJg,"Taco Mac","South Park","4626 Piedmont Row Drive, Bldg E Ste 115",Charlotte,NC,28210,35.152861,-80.8398047,2.5,263,1,11-0,11-0,11-0,11-0,11-1,11-1,11-0
+umxki_So2--o08q9bkXK6Q,"Picazzo's Organic Italian Kitchen","","7325 Frank Lloyd Wright Blvd",Scottsdale,AZ,85260,33.6371044,-111.922424,3.5,229,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+_MVSmAYSl4RkgXBg5e8JaQ,"Original Pancake House","","6840 E Camelback Rd",Scottsdale,AZ,85251,33.5025931,-111.9329992,3.5,225,1,7-14,7-14,7-14,7-14,7-14,7-14,7-14
+NX1281ugzs2navHAX5X9cQ,"Cha Me Cha","Unionville","8333 Kennedy Road, Suite 1078",Markham,ON,L3R 1J5,43.8563274289,-79.3038838729,3.5,220,1,12-0,12-0,12-0,12-0,12-0,12-0,12-0
+n8RVrpWpcd3HprzEnJ3RxA,"Ranch House Grille","","5618 E Thomas Rd",Phoenix,AZ,85018,33.4803042,-111.9602653,4.0,204,1,6-14,6-14,6-14,6-14,6-14,6-14,6-14
+JEoi9ITPZM58EnZBAubijA,"Vintage Brewing Co.","","674 S Whitney Way",Madison,WI,53719,43.0509492,-89.4739301,3.5,232,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+TA57efJ1C0acoCx5mtLnJg,"Chop Chandler","","2625 W Queen Creek Rd",Chandler,AZ,85248,33.2611717,-111.8844054,3.5,235,1,16-21,16-21,16-21,16-21,16-22,16-22,16-21
+FGy4UJ1Qri_KruPZiPmWYQ,"Viva Chicken","Ballantyne","12206 Copper Way",Charlotte,NC,28277,35.0704972,-80.8444723,4.5,233,1,11-21,11-21,11-21,11-21,11-21,11-21,11-21
+KMxOoHyRKP74PgosuRkkdg,"Paquime- Street Food of Mexico","","17 E Dunlap Ave",Phoenix,AZ,85020,33.567471,-112.0730792,4.5,248,1,8-21,8-21,8-21,8-21,8-21,8-21,8-21
+bfVpHvjir2G2Z9wVeddw4w,"The Olde Mecklenburg Brewery","","4150 Yancey Rd",Charlotte,NC,28217,35.187442,-80.881973,4.0,270,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+OtSbxxD-WNzlNQlDGpXFSA,"IKEA","Spring Valley","6500 Ikea Way",Las Vegas,NV,89148,36.0689265,-115.280825,3.5,204,1,10-21,10-21,10-21,10-21,10-21,10-21,10-20
+-9eNGMp8XiygI8t8QFuFWw,"The Melting Pot","","3626 E Ray Rd",Phoenix,AZ,85044,33.316214,-112.004239,4.0,294,1,16-22,16-22,16-22,16-22,16-23,15-23,15-22
+bgNmUYcraelf27TviWEMGA,"Inn On Coventry","","2785 Euclid Heights Blvd",Cleveland,OH,44106,41.5083843,-81.580503,4.0,206,1,7-14,7-14,7-14,7-14,7-14,8-14,8-14
+L2c-qKZWumCmOCR-dqBLrg,"Seven Saints","","32 E Chester St",Champaign,IL,61820,40.1165558776,-88.2420127724,4.0,244,1,11-0,11-2,11-2,11-2,11-2,11-2,11-0
+u9R0_pvEkl7QGPJYH3j1sg,"Times Square Pizzeria","","2602 W Deer Valley Rd",Phoenix,AZ,85027,33.6842472,-112.1163107,4.0,287,1,6-22,6-22,6-22,6-22,6-22,6-22,6-21
+Bm8nRUsZ-dK6g2eJLxMTOw,"Naka Sushi","Summerlin","8540 W Lake Mead Blvd, Ste 120",Las Vegas,NV,89128,36.199816342,-115.27929157,4.0,290,1,11-15,11-15,11-15,11-15,11-15,11-15,11-15
+2vL6xxAxRhJS7LabjjDyhw,"The Laundry Room","Downtown","525 E Fremont St",Las Vegas,NV,89101,36.1690086067,-115.139698349,4.5,216,1,20-2,20-2,20-2,20-2,20-2,20-2,20-2
+poSV39UqEg-gpESXafS9-g,"Angry Crab Shack & BBQ","","3820 E Ray Rd",Phoenix,AZ,85044,33.3175907,-112.0033223,4.0,200,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+SEH79jbg5Q8cCozCnhqMHA,"Marcellino Ristorante","","7114 E Stetson Dr",Scottsdale,AZ,85251,33.498914,-111.928574,4.0,218,1,16-22,12-15,12-15,12-15,12-15,12-15,12-15
+Jw3iaQalS9-1aeXkKh_plA,"Squid Ink","","9947 W Happy Valley Pkwy, Ste 109",Peoria,AZ,85383,33.7106405,-112.2734285,3.5,220,1,11-22,11-22,11-22,11-22,11-0,11-0,11-22
+qxVcSWGKyH3HkkHV8NinDA,"Salty Senorita","","3748 N Scottsdale Rd",Scottsdale,AZ,85251,33.4915705,-111.9264513,3.0,257,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+uCi2ropZuhG4XVcMDaurAw,"Rachel's Kitchen","Anthem","2265 Village Walk Dr",Henderson,NV,89052,36.021113,-115.087495,4.0,289,1,8-21,8-21,8-21,8-21,8-21,8-21,8-19
+VfFHPsPtTW4Mgx0eHDyJiQ,"Distill - A Local Bar","Summerlin","10820 W Charleston Blvd",Las Vegas,NV,89135,36.1606854895,-115.331591073,3.5,262,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+NpFtNc51LaZr8Y5_o2wRaw,"Texas Roadhouse","","16079 N. Arrowhead Fountains Center Dr",Peoria,AZ,85382,33.6321621,-112.2375661,3.5,205,1,16-22,16-22,16-22,16-22,15-23,11-23,11-23
+xwmwTpzw9XSwK-UT5Ka3HQ,"Bellwoods Brewery","Ossington Strip","124-126 Ossington Avenue",Toronto,ON,M6J 1R5,43.6471413,-79.4200036,4.0,213,1,17-0,17-0,17-0,17-1,14-1,12-1,12-0
+QYuojrlW94mpEwnp0uUIWA,"La Parrilla The Lab","Eastside","2585 E Flamingo Rd, Ste 16",Las Vegas,NV,89121,36.1141160102,-115.114932843,4.0,201,1,9-21,9-20,9-21,9-21,9-22,9-22,9-22
+JrXxQKt-TuHG1-ZjZifa1A,"National Car Rental","","1805 E Sky Harbor Cir S",Phoenix,AZ,85034,33.43179,-112.04206,4.5,218,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+woP-omtF0PobX4JxXpZa7Q,"Ronnie's Cafe","","4323 W Cactus Rd, Ste 3",Glendale,AZ,85304,33.5956471,-112.1521774,4.0,224,1,6-14,6-14,6-14,6-14,6-14,6-14,6-14
+1TTQ41NqKks69GltQSQNIA,"Suncoast Hotel & Casino","Westside","9090 Alta Drive",Las Vegas,NV,89145,36.1695162569,-115.291063714,3.0,259,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+gwd1W_0Mgzqo3QxgXrt16Q,"RuRu's Tacos + Tequila","Elizabeth","715 Providence Rd",Charlotte,NC,28207,35.2002817676,-80.8244345265,3.5,200,1,11-23,11-23,11-23,11-23,11-23,11-23,12-22
+lsHmnOZNlsKnEDsNmT-5_Q,"American Home Water and Air","","22047 N Black Canyon Hwy",Phoenix,AZ,85027,33.6871466,-112.1117839,5.0,289,1,6-20,6-20,6-20,6-20,6-20,6-20,6-20
+ry-rcjWrzY5nygBW_zswjg,"Juliette & Chocolat","Plateau-Mont-Royal","3600 Saint Laurent Boulevard",Montréal,QC,H2X 2V4,45.513860452,-73.5725887186,4.0,257,1,11-23,11-23,11-23,11-23,11-0,11-0,11-23
+ZCe93zAkxr2KOBU1NT0lmg,"Valle Luna","","3336 W Bell Rd",Phoenix,AZ,85053,33.6409635847,-112.131531584,3.5,285,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+bRZSm_1UQdmU6QWZfO9h6w,"Loving Hut - Glendale","","3515-A W Union Hills Dr",Glendale,AZ,85308,33.6533726,-112.1348879,4.0,237,1,17-21,17-21,17-21,17-21,17-21,11-15,
+tVyLQzyhhinKcGzlZIFZjQ,"Oregano's Pizza Bistro","","1960 W Germann Rd",Chandler,AZ,85286,33.2763332,-111.8757263,4.0,210,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+0jAexNHRHhkQv4zNYqenBA,"El Hefe","","4425 N Saddlebag Trl",Scottsdale,AZ,85251,33.5014121,-111.9219982,3.5,281,1,16-2,16-2,16-2,16-2,16-2,11-2,11-2
+ijY4C4ut4M9xg3QvK2R2pg,"Li Wah","Goodrich Kirtland","2999 Payne Ave, Ste 102",Cleveland,OH,44114,41.5083668054,-81.6693706559,3.5,209,1,10-0,10-0,10-0,10-0,10-0,10-0,10-0
+ijg7qQCYnhUWBd5JUxbfvA,"Roxy's Diner","The Strip","Stratosphere Casino, Hotel & Tower, 2000 Las Vegas Blvd S",Las Vegas,NV,89104,36.1477095179,-115.155205876,3.0,294,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+KS_d3F_eIA6iTo6Wtj2O_w,"Smoke's Poutinerie","Entertainment District","218 Adelaide Street W",Toronto,ON,M5H 1W7,43.6485412,-79.3877675,3.5,249,1,11-0,11-0,11-0,11-3,11-4,11-4,11-0
+OKYp_AwhXfqL_0Pgw1WB9Q,"Jack Flaps","Ohio City","3900 Lorain Ave",Cleveland,OH,44113,41.480809753,-81.7125004251,4.0,300,1,7-15,7-15,7-15,7-15,7-15,7-15,7-15
+qpub9UXk8oBJr95oq-MbIg,"O-my Sushi","Westside","1000 S Rampart Blvd, Ste 16",Las Vegas,NV,89145,36.1604696,-115.2898892,4.0,206,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+7OQ7lhIsjLSmf-3012LAuw,"Original ChopShop","","35 W Boston St",Chandler,AZ,85225,33.3020248413,-111.842025757,4.0,240,1,7-21,7-21,7-21,7-21,7-21,7-21,7-20
+eavP59x5DOpGwVFhxbG4Cg,"Pho Vietnamese Cuisine","The Strip","Treasure Island, 3300 Las Vegas Blvd S",Las Vegas,NV,89109,36.1245859,-115.1716132,2.5,264,1,11-0,11-0,11-0,11-0,11-3,11-3,11-0
+gOOc6MDdhw7fV0Tf30mfAQ,"Gritz Cafe","","1911 Stella Lake, Ste 150",Las Vegas,NV,89106,36.1937713,-115.1647985,4.5,241,1,7-15,7-15,7-15,7-15,7-15,7-15,7-15
+FhIeCF6QrsLaRvAeu0oEPQ,"Bob Taylor's Ranch House","Centennial","6250 Rio Vista St",Las Vegas,NV,89130,36.2747255482,-115.245787036,3.5,273,1,11-22,11-22,11-22,11-22,11-11,11-11,11-22
+jTZYireK6pnPb6Rni0jygw,"Wow Sushi","Downtown Core","11 Charles Street W",Toronto,ON,M4Y 1R4,43.668515749,-79.3868207932,4.0,298,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+Iam7tYWhssw_rscSBkeRIQ,"Fiori's Pizzaria","Beechview","103 Capital Ave",Pittsburgh,PA,15226,40.405245,-80.018538,4.5,201,1,11-1,11-1,11-1,11-1,11-3,11-3,11-1
+nwHd2MbIGz0SNG8GpFjekw,"Los Taquitos","","7000 N 16th St",Phoenix,AZ,85020,33.5395733,-112.048346014,4.0,267,1,9-21,9-21,9-21,9-21,9-21,9-21,9-20
+JwWeolTHTWRDdbT0Zb6WLw,"Chapman Chevrolet","","1717 E Baseline Rd",Tempe,AZ,85283,33.3779549,-111.9098807,3.0,222,1,8-21,8-21,8-21,8-21,8-21,8-20,10-19
+3glVZZh_vyZH1VvPU0307A,"Enoteca Sociale","Dufferin Grove","1288 Dundas St W",Toronto,ON,M6J 1X7,43.6496915,-79.4257125,4.0,233,1,17-23,17-23,17-23,17-23,17-23,17-23,17-23
+G_LtZnL66Iwama_7_FCLUQ,"Baku","South Park","4515 Sharon Rd",Charlotte,NC,28211,35.151220812,-80.8278901435,4.0,211,1,17-22,17-22,17-22,17-22,17-23,17-23,11-15
+pBFewLcdLnf1XwPTE4jtyQ,"McFate's Tap + Barrel","","7337 E Shea Blvd, Ste 105",Scottsdale,AZ,85260,33.5814933,-111.9235093,4.0,288,1,15-22,15-22,15-22,15-22,11-23,11-23,11-21
+ymtJtXwsJUClLNDepV1piQ,"The Capital Grille","","2502 E Camelback Rd",Phoenix,AZ,85016,33.51023428,-112.027200992,4.0,296,1,11-22,11-22,11-22,11-22,11-23,17-23,17-21
+oX7lSVsg4j7-SrSZVGWVnA,"Babbo Italian Eatery","","20211 N 67th Ave",Glendale,AZ,85308,33.6701038,-112.2004495,4.0,218,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+m1LOUjVzAAoCS61BTL5i5g,"Hodori Restaurant","","1116 S Dobson Rd",Mesa,AZ,85202,33.3944172,-111.8754243,3.5,281,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+r3Xx9Qk3xAMzYGIGFBcKpQ,"Enterprise Rent-A-Car","","1805 E Sky Harbor Cir S",Phoenix,AZ,85034,33.431452,-112.04179,4.0,229,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+xiNJk32NYbXdL-T3PzE3lQ,"Salon D'Shayn","","4328 N Wells Fargo Ave, Ste 2",Scottsdale,AZ,85251,33.4991492,-111.9230629,5.0,239,1,10-19,10-19,10-19,10-19,10-19,9-18,10-17
+q4v-I9j1v7WqtxR12uEMxQ,"Beach Hut Deli","","9500 S Eastern Ave, Ste180",Las Vegas,NV,89123,36.016485,-115.117119,4.0,211,1,11-20,11-20,11-20,11-20,11-20,11-20,11-18
+8E2Uc0Mn4cn_yEY0xFv-9A,"Right Toyota","","7701 E Frank Lloyd Wright Blvd",Scottsdale,AZ,85260,33.6344063,-111.9143695,3.0,225,1,8-21,8-21,8-21,8-21,8-21,8-21,9-20
+h2hJyBYCIXU2_om6LYHWHA,"Cold Beers & Cheeseburgers","","20831 N Scottsdale Rd, Ste 117",Scottsdale,AZ,85255,33.676327438,-111.923292875,3.5,293,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+FmraE2CWt65VRnEqCAqNEg,"Harvey American Public House","","1524 E Williams Field Rd, Ste 101",Gilbert,AZ,85295,33.3072791,-111.7565009,3.5,265,1,11-2,11-2,11-2,11-2,11-2,11-2,9-2
+80Lkm305ZOkQdMEIvOy_lw,"TAP Sports Bar","The Strip","3799 Las Vegas Blvd S",Las Vegas,NV,89109,36.102507307,-115.169379956,3.5,269,1,11-1,11-1,11-1,11-2,11-2,11-2,11-1
+hgWMxKhrnOUd3m5nOUBIkA,"Las Vegas Athletic Club","Southeast","9065 S Eastern Ave",Las Vegas,NV,89123,36.0253318,-115.1208519,3.0,268,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+0PFf3RKtDQyHnrdcPo8zMQ,"Foosia","","13610 N Scottsdale Rd",Scottsdale,AZ,85254,33.6099946,-111.9266533,4.0,244,1,11-21,11-21,11-21,11-21,11-21,11-21,11-21
+Net_BZG7t8JRLjXxNtvyNg,"Xtreme Bean Coffee","","1707 E Southern Ave",Tempe,AZ,85282,33.3926309,-111.9110589,3.5,227,1,5-23,5-23,5-23,5-23,5-1,5-1,5-23
+ycFthc3nxzU_dWfRFev41Q,"National Atomic Testing Museum","University","755 E Flamingo Rd",Las Vegas,NV,89119,36.1140637,-115.1483536,4.0,245,1,10-17,10-17,10-17,10-17,10-17,10-17,12-17
+4K5NUsinIgtq-yuxdp2HdA,"Fuzzy's Taco Shop","","414 S Mill Ave, Ste 115",Tempe,AZ,85281,33.4259647,-111.9402513,3.5,261,1,9-23,9-23,9-23,9-23,9-1,9-1,9-21
+-AD5PiuJHgdUcAK-Vxao2A,"Smashburger","University","4725 S Maryland Pkwy",Las Vegas,NV,89119,36.1036793,-115.1377851,3.5,254,1,10-22,10-22,10-22,10-22,10-22,10-22,10-22
+Ka00H3EHLLiPNpMj1V4Hcw,"The LINQ Promenade","The Strip","The LINQ Las Vegas, 3545 Las Vegas Blvd South",Las Vegas,NV,89109,36.1177747,-115.1725759,4.0,226,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+Nc7-nyG_RzXrEqBuxihcgQ,"BJ's Restaurant & Brewhouse","","3155 W Chandler Blvd",Chandler,AZ,85226,33.299579,-111.898266,3.5,288,1,11-0,11-0,11-0,11-0,11-1,10-1,10-23
+36GvUjLg3drdOB3jgpqTOQ,"El Zocalo Mexican Grill","","28 S San Marcos Pl",Chandler,AZ,85225,33.3030509,-111.8422941,3.0,231,1,11-21,11-21,11-21,11-21,11-2,11-2,11-20
+_2trMwFsh5-IqqEcQ-OLVA,"Mac's Speed Shop","Steele Creek","2414 Sandy Porter Rd",Charlotte,NC,28273,35.1358714,-80.9401401,3.5,202,1,11-0,11-0,11-0,11-2,11-2,11-2,11-0
+ld-foUbIqtcYTihGZkGsTw,"Big Two Toyota of Chandler","","1250 S Gilbert Rd",Chandler,AZ,85286,33.2879904,-111.7915687,4.0,200,1,8-21,8-21,8-21,8-21,8-21,8-21,10-18
+qxNKPJfuklMxwPbkHLHeWQ,"Paul Martin's American Grill","","6186 N Scottsdale Rd",Scottsdale,AZ,85253,33.5282184126,-111.926276476,4.0,247,1,11-22,11-22,11-22,11-22,11-22,11-22,11-21
+RvwZqjdkZ_pER0moPXLZAQ,"Rose Tea Cafe","Squirrel Hill","5874 Forbes Ave",Pittsburgh,PA,15217,40.4378411,-79.9201088,3.5,291,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+QeDkfLmXVguytF3Of9zg-Q,"Boudreaux's Louisiana Kitchen","NoDa","501 E 36th St",Charlotte,NC,28205,35.247776,-80.804143,4.0,229,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+F1PMcEIg-FHZvwhiUoFEgw,"Grimaldi's Pizzeria","","15147 N Scottsdale Rd, Ste 135",Scottsdale,AZ,85254,33.6236325677,-111.923551856,4.0,227,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+HM0sWlwg3ONJ6syMSh_9zw,"DC Steak House","","98 S San Marcos",Chandler,AZ,85225,33.3024257,-111.8422554,3.5,262,1,16-23,16-23,16-23,16-23,16-0,16-0,16-22
+wNXw53wmePcf_V3rF18LUg,"Grazie Ristorante","Mount Pleasant and Davisville","2373 Yonge Street",Toronto,ON,M4P 2C8,43.7093922,-79.398862,4.0,268,1,12-22,12-23,12-23,12-23,12-0,12-0,12-23
+-JwSuDqyFILFJmVpjrVbwA,"Half Moon Sports Grill","","288 E Greenway Pkwy, Ste 103",Phoenix,AZ,85022,33.6370139392,-112.070148099,3.5,224,1,11-2,11-2,11-2,11-2,11-2,11-2,10-2
+0CB7YB1qRSWLQvMbHw3Fmw,"Easy Life Boba Tea","Westside","8560 W Desert Inn Rd, Ste D2",Las Vegas,NV,89117,36.1300289,-115.2777727,4.0,290,1,11-19,11-19,11-19,11-19,11-19,11-19,11-19
+5EIJCSrXLHvM2HEoKCejpw,"Arizona Mills","","5000 S Arizona Mills Cir",Tempe,AZ,85282,33.3830453556,-111.964472169,3.0,241,1,10-21,10-21,10-21,10-21,10-21,10-21,11-18
+caGXS6ubNTlv91ZZyoirjQ,"Primanti Bros.","Oakland","3803 Forbes Ave",Pittsburgh,PA,15213,40.4417769,-79.9569556,3.5,239,1,11-0,11-2,11-2,11-2,11-2,11-2,11-2
+_JZ7hXqOZ_MngjPWFgER0w,"Pizza People Pub","","1326 N Central Ave",Phoenix,AZ,85004,33.4634047108,-112.074075905,4.0,280,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+oDxvrLYe5SiQKdJlGhheoA,"Baja Joe's Mexican Cantina","","1927 N Gilbert Rd, Ste 6",Mesa,AZ,85203,33.450355,-111.7867815,4.0,216,1,9-0,9-0,9-0,9-2,9-2,9-2,9-0
+PL_kv7YO7ZwbDAm9R_ronQ,"Maverick Helicopters","Southeast","6075 S Las Vegas Blvd",Las Vegas,NV,89119,36.0787059417,-115.172061185,4.5,214,1,6-23,6-23,6-23,6-23,6-23,6-23,6-23
+nn4ZkIZTCd7jJhxs-P9tHA,"5 & Diner","","5220 N 16th St",Phoenix,AZ,85016,33.5134571387,-112.047840589,3.5,209,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+pldfvm-zM2VU5m9a-j9cMQ,"Hazelnuts Creperie","Uptown","200 S Tryon St",Charlotte,NC,28202,35.2261961087,-80.8448701835,4.5,232,1,8-15,8-15,8-15,8-15,8-15,8-15,8-15
+ztP466jMUMtqLwwHqXbk9w,"Firebirds Wood Fired Grill","","16067 N Arrowhead Fountains Ctr Dr",Peoria,AZ,85382,33.6308784,-112.2382757,4.0,267,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+-0qht1roIqleKiQkBLDkbw,"Cancun Resort Las Vegas by Diamond Resorts","Southeast","8335 Las Vegas Blvd S",Las Vegas,NV,89123,36.0379677,-115.1734747,3.0,270,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+1WBkAuQg81kokZIPMpn9Zg,"Charr An American Burger Bar","","777 E Thunderbird Rd, Ste 107",Phoenix,AZ,85022,33.60731,-112.063404,3.0,200,1,11-22,11-22,11-22,11-22,11-23,11-23,11-21
+kgw8nBO9ZMRhukfnJd6bxg,"Grape Street Cafe & Wine Bar","South Summerlin","2120 Festival Plaza Dr, Ste 160",Las Vegas,NV,89135,36.1481421773,-115.333543791,3.0,223,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+S8urdN6ACnRQUm-7o9An8w,"Altius","Duquesne Heights","1230 Grandview Ave",Pittsburgh,PA,15211,40.438556,-80.019299,4.5,286,1,17-22,17-22,17-22,17-22,17-23,17-23,17-21
+hCfp6jF1yisOfwYO-88e_g,"Modern Nails - Las Vegas","Southeast","9555 S Eastern Ave",Las Vegas,NV,89123,36.0159192,-115.1195241,4.0,230,1,10-23,10-23,10-23,10-23,10-23,10-19,10-19
+8MWiywu09bhLWIpzVaD4gw,"Aunties & Uncles","","74 Lippincott Street",Toronto,ON,M5S 2P1,43.6569999,-79.4067699,3.5,289,1,9-15,9-15,9-15,9-15,9-15,9-15,9-15
+28adZ4lsuUeVB2aWzohK9g,"Prohibition Gastrohouse","Riverdale","696 Queen Street E",Toronto,ON,M4M 1G9,43.6588785,-79.3503452,3.5,227,1,11-2,11-2,11-2,11-2,11-2,10-2,10-2
+ZvtELJTUOh0yRrPxyyiakQ,"Oregano's Pizza Bistro","","1475 W Elliot Rd",Tempe,AZ,85284,33.348618,-111.962625,4.0,243,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+i53HvxUdQEMllZ1XmpjjyA,"Sicily's Pizza","Spring Valley","3585 S Durango Dr",Las Vegas,NV,89147,36.1248288,-115.279928,2.0,221,1,6-6,6-6,6-6,6-6,6-6,6-6,6-6
+Xfc-B8XUPkvvYoy5eVFO4w,"Twisted Grove Parlor + Bar","","8220 N Hayden Rd",Scottsdale,AZ,85258,33.55595,-111.8990371,4.5,224,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+vKKSF1_1JNnRMaoNPQb5Lw,"Oregano's Pizza Bistro","","6738 W Bell Rd",Glendale,AZ,85308,33.6388197,-112.2041817,3.5,252,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+wEc4JE2NYQr1RnGjGr4q7w,"K O'Donnell's Sports Bar & Grill","","14850 N Northsight Blvd",Scottsdale,AZ,85260,33.620547,-111.898142,4.0,261,1,11-22,11-23,11-23,11-0,11-0,10-0,10-22
+diY31IEunbV8MfDh81FS1A,"Smashburger","The Lakes","9101 W Sahara Ave",Las Vegas,NV,89117,36.143856508,-115.296061311,3.5,244,1,10-22,10-22,10-22,10-22,10-22,10-22,10-22
+Xe9Za61rO8QdbU1U0Mm1CA,"George Brazil Air Conditioning & Heating","","2655 E Magnolia St",Phoenix,AZ,85034,33.421983,-112.023194,4.0,225,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+NdUuGRxEH0waBQbL6R7mmg,"Boulder Station Hotel & Casino","","4111 Boulder Hwy",Las Vegas,NV,89121,36.133052,-115.0849016,3.0,222,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+g6B5hVt6oZRVO2wR4f0sNw,"Duck & Decanter","","1651 E Camelback Rd",Phoenix,AZ,85016,33.5075996,-112.0448199,4.0,205,1,7-19,7-19,7-19,7-21,7-21,8-19,8-19
+caUPXiOxvLGMsorJBtNlhg,"Sammy's Restaurant & Bar","","1501 N Green Valley Pkwy",Henderson,NV,89074,36.0297380296,-115.08690566,3.5,222,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+o9IvrLWtTt5lCYqO-uiJLg,"Harold's Corral","","6895 E Cave Creek Rd",Cave Creek,AZ,85331,33.8301769,-111.9329179,3.5,273,1,8-2,8-2,8-2,8-2,8-2,8-2,8-2
+8yiLVWzJyyTEhYE0fVNvlA,"Il Mulino New York","The Strip","The Forum Shops at Caesars Palace, 3500 Las Vegas Blvd S",Las Vegas,NV,89109,36.128561,-115.1711298,4.0,235,1,12-22,12-22,12-22,12-22,12-23,12-23,17-22
+JtNVcqioJhS8GZ-If30oHg,"National Car Rental","Southeast","7135 Gilespie St",Las Vegas,NV,89119,36.060839,-115.16357,4.0,204,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+M--CB6Fhp4XKxsR2PlcP9w,"Fat Tuesday","The Strip","3570 Las Vegas Blvd S, Ste L23",Las Vegas,NV,89109,36.118822,-115.178192,4.5,212,1,10-23,10-23,10-23,10-23,10-2,10-2,10-23
+UotZUkpcI0p2J8RUAD36Ng,"Second Story Liquor Bar","","4166 N Scottsdale Rd",Scottsdale,AZ,85251,33.4966118344,-111.926354282,4.5,275,1,16-22,16-22,16-23,16-23,16-2,16-2,16-22
+04kZ5CSh6oKhI5huU5bLdg,"Sharp Edge","Downtown","922 Penn Ave",Pittsburgh,PA,15222,40.4437926,-79.9971759,3.5,227,1,11-0,11-0,11-0,11-0,11-1,9-1,9-0
+eTXYID00jGxq1vZpntBUFw,"Little City Grille","","825 Nevada Hwy",Boulder City,NV,89005,35.9737209,-114.841642,4.5,298,1,7-20,7-20,7-20,7-20,7-20,7-20,7-20
+ZKsVCA89iXMccf3fEhS3iw,"Angry Crab Shack","","7608 W Cactus Rd",Peoria,AZ,85381,33.596701,-112.2228886,4.5,271,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+JcTIqoWO83FfEI9PJJHMfw,"American Shooters","Chinatown","3440 Arville St",Las Vegas,NV,89102,36.1274913,-115.198675,4.0,202,1,9-19,9-19,9-19,9-19,9-19,9-19,10-18
+M4vh_kzppP1nsxo7hsaVIA,"Golden Nugget Buffet","Downtown","129 E Fremont St",Las Vegas,NV,89101,36.1702682,-115.1449127,2.5,236,1,7-20,7-20,7-20,7-20,7-21,7-21,7-21
+XNWXyFgCGaAwvg9QML2Ypw,"Mad Mex - Shadyside","Shadyside","220 S Highland Ave",Pittsburgh,PA,15206,40.458283,-79.925318,3.5,241,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+jG1jcAeDw0pZTHCNC5kw_w,"Grazie","","6952 E Main St",Scottsdale,AZ,85251,33.4932474,-111.9310373,3.5,290,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+cF98fzqrMnikhXhuSz6ruQ,"The Oak Barrel","","5975 Canal Rd",Valley View,OH,44125,41.399805723,-81.6257270298,4.0,243,1,11-22,11-22,11-22,11-22,11-23,11-23,11-21
+6ZsiLiSWGK2pgw6t3LfzNQ,"Donburi","","505 Highway 7 E, Unit 93-95",Markham,ON,L3T 7T1,43.842529,-79.38676,3.5,223,1,11-0,11-0,11-0,11-0,11-2,11-2,11-0
+RThuRlhMdowhtY8vITEIzQ,"Mineo's Pizza House","Squirrel Hill","2128 Murray Ave",Pittsburgh,PA,15217,40.4328561,-79.9232546,3.5,216,1,11-1,11-1,11-1,11-1,11-2,11-2,11-1
+tuIg103yDqCEcTk5J_h8ow,"FilmBar","","815 N 2nd St",Phoenix,AZ,85004,33.4570463,-112.070861,4.5,246,1,17-0,17-0,17-0,17-0,17-2,16-2,15-0
+FKOF8_OMvoPoDHOplDd7tQ,"Kickstand Burgers & Bar","Plaza Midwood","1101 Central Ave",Charlotte,NC,28204,35.22178,-80.8192399,4.0,235,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+kKY726bQREexYHHNLK1H7g,"Fabergé","Plateau-Mont-Royal","25 Avenue Fairmount O",Montréal,QC,H2T 2L9,45.5234934775,-73.5950759053,4.0,232,1,8-15,8-15,8-15,8-15,8-15,8-16,8-16
+pDSl9xdKJCdN4vu8z26cEA,"Coyote Ugly Saloon","The Strip","3790 Las Vegas Blvd S",Las Vegas,NV,89109,36.1014644005,-115.174213474,2.5,265,1,18-4,18-4,18-4,18-4,18-4,18-4,18-4
+R-sEoZXf37pGzLnid7s6wA,"Taquitos Jalisco","","1052 W Broadway Rd",Mesa,AZ,85210,33.407754,-111.8544766,4.5,246,1,8-22,8-22,8-22,8-22,8-22,8-22,8-22
+o13eH93qmWVNFZogkjhd9w,"Courier Cafe","","111 N Race St",Urbana,IL,61801,40.1128225269,-88.2090229914,4.0,287,1,7-23,7-23,7-23,7-23,7-0,7-0,7-23
+nlVjdQq9FzdQ3bfy-8y80g,"The Dor-Stop Restaurant","Dormont","1430 Potomac Ave",Pittsburgh,PA,15216,40.396012,-80.034727,4.5,296,1,6-15,6-15,6-15,6-15,6-15,6-15,8-14
+Zt4ljpwfmBufatNM1zPNcQ,"Picazzo's Organic Italian Kitchen","","440 W Warner Rd",Tempe,AZ,85284,33.3350535,-111.9445749,3.5,239,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+H3cMcV9KK3g2pi68lDNsng,"Luxe Kitchen & Lounge","Detroit-Shoreway","6605 Detroit Ave",Cleveland,OH,44102,41.4836643,-81.7309584,4.0,217,1,17-22,17-22,17-22,17-23,17-0,17-0,10-21
+GNi0IjmB5RYOFHxcb_f2qw,"Coach House","","7011 E Indian School Rd",Scottsdale,AZ,85251,33.494512,-111.9299317,4.0,213,1,6-2,6-2,6-2,6-2,6-2,6-2,6-2
+E7VRsyNQWPteH6_qI4j7bw,"Thai Pepper","The Strip","2226 Paradise Rd",Las Vegas,NV,89104,36.1445387492,-115.155174282,3.5,278,1,6-6,6-6,6-6,6-6,6-6,6-6,6-6
+WMpXWa8iiEaDzb4vLTZjcw,"HopCat","Capitol","222 W Gorham St",Madison,WI,53703,43.0751392,-89.391759,4.0,230,1,11-0,11-0,11-0,11-2,11-2,11-2,10-0
+GkRF8rSvh9cOQuuPeDh9bg,"Sushi Fever","Westside","7985 W Sahara Ave, Ste 105",Las Vegas,NV,89117,36.1431984312,-115.264456426,4.0,299,1,11-23,11-23,11-23,11-23,11-23,11-23,16-22
+kne4oWWLq0FFHLA-gWuqoQ,"Daily Dose Midtown","","1928 E Highland Ave, Ste F-107",Phoenix,AZ,85016,33.5058728555,-112.041342258,4.0,287,1,7-15,7-15,7-15,7-15,7-15,7-15,7-15
+bQ2uuNkOxgUQRM7Y7RJDXQ,"Isabel's Amor","","1490 E Williams Field Rd, Ste 101",Gilbert,AZ,85295,33.3074771489,-111.757674956,4.0,202,1,11-21,11-21,11-21,11-22,11-22,11-22,11-21
+aRIZPbrHwnM04TTXLYrFMg,"Eno Vino Wine Bar & Bistro","Junction Ridge","601 Junction Rd",Madison,WI,53717,43.073189,-89.525189,4.0,217,1,16-0,16-0,16-0,16-0,16-1,16-1,16-0
+qi6uzJEhA9puZM2io46-_A,"P.F. Chang's","Anthem","101 S Green Valley Pkwy",Henderson,NV,89012,36.0224502974,-115.084934682,3.0,215,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+X88w0XrUSIKue9Vuwtqs_g,"Penn Ave Fish Company","Strip District","2208 Penn Ave",Pittsburgh,PA,15222,40.4523172,-79.9818216,4.0,224,1,9-16,9-16,9-20,9-20,9-20,9-20,10-14
+T3ASfec34b8-uYr3xZj8Lw,"P.F. Chang's","Westside","1095 S Rampart Blvd",Las Vegas,NV,89145,36.1593507001,-115.291914698,3.5,261,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+f6CTsNX30XmC8siHWYV2bA,"Star Foot Spa","Chinatown","5599 Spring Mountain Rd",Las Vegas,NV,89146,36.1253162221,-115.218312869,3.5,264,1,10-21,10-21,10-21,10-21,10-21,10-21,10-21
+ni4ppUp4oHq-OSSCgUIGiA,"barMASA","The Strip","3730 Las Vegas Blvd S",Las Vegas,NV,89109,36.106655614,-115.176914489,2.5,244,1,17-22,17-22,18-22,17-22,17-22,17-22,17-22
+RDQ_812x82H72J7C6jG36Q,"La Taguara","Hawthorne","3502 E Washington Ave",Madison,WI,53704,43.1146792,-89.3285605,4.5,203,1,11-20,11-20,11-20,11-20,11-21,9-21,9-18
+M9gwHW1oIiIqjdT76yOBDA,"J & G Steakhouse","","The Phoenician, 6000 E Camelback Rd",Scottsdale,AZ,85251,33.5075081578,-111.949531029,4.0,237,1,17-22,17-22,17-22,17-22,17-22,17-22,17-21
+3nf-a84p8LC41_WAIvJPjg,"Grimaldi's Pizzeria","The Strip","Fashion Show Mall, 3200 Las Vegas Blvd S, Ste 1540",Las Vegas,NV,89109,36.1272253241,-115.172857855,4.0,228,1,11-21,11-21,11-21,11-21,11-21,11-21,11-19
+aw0H9O1yysoHB0JanT0Ubw,"Chicago Gyros","","717 W Union Hills Dr, Ste 1",Phoenix,AZ,85027,33.654353214,-112.083579912,4.0,226,1,11-20,11-20,11-20,11-20,11-20,11-20,11-18
+E3BTs8yFlVbZd20TknY00A,"Jim 'N Nick's Bar-B-Q","Steele Creek","13840 Steele Creek Rd",Charlotte,NC,28273,35.1050414819,-80.9898836505,4.0,210,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+tCjlXROlbcaGiBRfU2jaiw,"The Keg Steakhouse + Bar - Mansion","","515 Jarvis Street",Toronto,ON,M4Y 2H7,43.6668376,-79.3778635,4.0,224,1,16-1,16-1,16-1,16-1,16-1,16-1,16-0
+wxzG81ZyWpBje_mU4aFLaw,"Humble Pie","","2333 N 7th St",Phoenix,AZ,85006,33.474345,-112.064842,3.5,248,1,11-22,11-22,11-22,11-22,11-22,11-22,11-21
+6GzwaQeb3brmyBucng_WPg,"Vesper Bar","The Strip","The Cosmopolitan Of Las Vegas, 3708 Las Vegas Blvd S",Las Vegas,NV,89109,36.1095833067,-115.175779003,4.0,242,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+5_MrPFw9E0cMJ1Q0DJFZOQ,"Tilted Kilt Pub & Eatery","The Strip","3545 Las Vegas Blvd, Unit L-26",Las Vegas,NV,89109,36.1173843209,-115.170322225,3.0,231,1,11-0,11-0,11-0,11-0,9-1,9-1,9-1
+xtktc6OTdtilAREgJH-P4g,"Burger Bar Crescent","Ville-Marie","1465 Rue Crescent",Montréal,QC,H3G 2B2,45.4977502,-73.5768317,4.0,230,1,11-0,11-0,11-0,11-0,11-0,11-0,11-0
+UN_6ebslv5cxdDmZAX3ivQ,"Luna Lounge","The Strip","3057 Las Vegas Blvd",Las Vegas,NV,89109,36.1312191441,-115.16399787,4.0,278,1,16-2,16-2,16-4,16-2,11-4,11-4,11-3
+pup46G8qFBG8695RtbQNwA,"Los Dos Molinos","","4855 E Warner Rd",Phoenix,AZ,85048,33.3318275147,-111.977781531,3.0,249,1,11-21,11-21,11-21,11-21,11-21,11-21,10-15
+wNi62bHU6RerwHwVDqF3aA,"Super Shuttle Las Vegas","","",Las Vegas,NV,89103,36.106893,-115.187134,3.5,217,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+iwzVhM5CirzkNS5wTxwZeA,"The Strand","","2 E Jefferson St, Ste 113",Phoenix,AZ,85004,33.4475275954,-112.07275913,3.5,244,1,11-21,11-21,11-21,11-21,11-22,16-22,16-21
+aKFA85Miwb96A0IAS3mRgQ,"FEZ","","105 W Portland St",Phoenix,AZ,85003,33.4596984703,-112.074195267,3.5,210,1,11-0,11-0,11-0,11-0,11-1,10-1,10-0
+9U4Tqt5SkZKQ6eeH6IPSxQ,"Ohjah Japanese Steakhouse","","2051 N Rainbow Blvd, Ste 102",Las Vegas,NV,89108,36.1987541,-115.2427914,4.5,211,1,15-23,15-23,15-23,15-23,15-23,15-23,15-23
+wMOioy2KAoI2AnpbqwxdOg,"Yanagi Sushi","","884 W Warner Rd, Ste B4",Gilbert,AZ,85233,33.335884,-111.8089404,4.5,203,1,11-21,11-21,11-22,11-22,11-22,12-22,12-21
+tA5mqEP68qjbTFK9c14D7A,"Pot Tea Social House","Southwest","7815 S Rainbow Blvd, Ste 102",Las Vegas,NV,89139,36.0463716252,-115.243588686,4.0,235,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+pL-QrHxQ0kHBDA1ZyOjGQw,"Whole Foods Market","","2955 W Ray Rd",Chandler,AZ,85224,33.3184402,-111.892792,4.0,207,1,7-22,7-22,7-22,7-22,7-22,7-22,7-22
+Dcj69NZJnbJhK-YHP_nULA,"Brasserie V","Vilas","1923 Monroe St",Madison,WI,53711,43.0640503,-89.4180168,4.0,263,1,11-23,11-23,11-23,11-23,11-0,11-0,16-23
+16-Ne-iDt5HpHWIP9fOmhw,"Au Kouign-Amann","Plateau-Mont-Royal","322 Avenue du Mont-Royal E",Montréal,QC,H2T 1P7,45.5232,-73.583459,4.5,254,1,7-19,7-19,7-19,7-19,7-19,7-18,7-18
+wBJyTzjlDCjF9fM9o_izWQ,"The Spa at Encore","The Strip","3131 Las Vegas Blvd. South",Las Vegas,NV,89109,36.1275847588,-115.165970538,4.5,209,1,7-20,7-20,7-20,7-20,7-20,7-20,7-20
+u3nwislXMKKwkpHAXAArbQ,"KJ Kitchen","Chinatown","5960 Spring Mountain Rd",Las Vegas,NV,89146,36.1258098,-115.2230979,3.5,258,1,11-0,11-0,11-0,11-0,11-0,11-0,11-0
+-OEIW0dO96-492qa_luxaw,"Aces & Ales","","3740 S Nellis Blvd",Las Vegas,NV,89121,36.121392,-115.0646814,4.0,221,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+nhIWy8eXayUvDzAz3Ef-Og,"Best Western Plus Casino Royale","The Strip","3411 Las Vegas Blvd S",Las Vegas,NV,89109,36.1207403774,-115.171804244,3.5,276,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+WvC9K0ZEOTbR7fh-LNe5_A,"Famous Toastery","Sedgefield","2400 Park Rd",Charlotte,NC,28203,35.1985012,-80.85265,3.5,220,1,7-15,7-15,7-15,7-15,7-15,7-15,7-15
+lDpVyjENOz_qbxbRoyBi8w,"Black Camel","Rosedale","4 Crescent Road",Toronto,ON,M4W 1S9,43.6771222328,-79.3892097143,4.5,258,1,7-20,7-20,7-20,7-20,7-20,11-20,11-20
+eJ-bDf7E1ph07vF7WbF8dA,"Tonto Bar & Grill","","5736 E Rancho Manana Blvd",Cave Creek,AZ,85331,33.8329684,-111.9552171,4.0,203,1,11-21,11-21,11-21,11-21,11-21,11-21,10-21
+c9SKd0bIR6nNzXOVCbOi_A,"IKEA","University City","8300 Ikea Blvd",Charlotte,NC,28262,35.2933918,-80.7650555,3.5,248,1,10-21,10-21,10-21,10-21,10-21,10-21,10-21
+ozMd45nXHTCl3mdOwouwlw,"Shawarma House","Northwest","5861 W Craig Rd, Ste 103",Las Vegas,NV,89130,36.2384845,-115.2245482,4.5,245,1,11-21,11-21,11-21,11-21,11-21,11-21,11-20
+orrrhqRRUORIzUSxWTveKg,"Presti's Bakery","Little Italy","12101 Mayfield Rd",Cleveland,OH,44106,41.5088666,-81.598344,4.0,235,1,6-19,6-21,6-21,6-21,6-22,6-22,6-16
+D-8yidw7FLKKQpciKJSd2g,"The Burgernator","Kensington Market","269 Augusta Avenue",Toronto,ON,M5T 1M5,43.6556342,-79.4024449,4.0,226,1,11-21,11-21,11-21,11-22,11-22,11-22,11-20
+I6qFvR-jVDGqDD_iVG38ng,"Jenni Pho Grill","Chinatown","4480 W Spring Mountain Rd",Las Vegas,NV,89102,36.1264280647,-115.201307757,3.0,243,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+4KmrrhtfnngTVFa2d5LAjg,"Allegro","The Strip","3131 Las Vegas Blvd S",Las Vegas,NV,89109,36.127858,-115.165969,3.5,298,1,15-6,15-6,15-6,15-6,15-6,15-6,15-6
+dp9haMgS5RZ6i1kQq_oS5A,"Fran's Restaurant","Downtown Core","20 College Street",Toronto,ON,M5G 1K2,43.6614505,-79.384068,3.5,234,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+VbEK6-etnKKaPamrG2jWjQ,"Haute Doggery","The Strip","3545 Las Vegas Blvd, Ste L-30",Las Vegas,NV,89109,36.1173225,-115.1715632,3.0,209,1,10-0,10-0,10-0,10-0,10-2,10-2,10-0
+5q6Xh-UcJa78bp6dzyaE7w,"Duck Donuts","Dilworth","1710 Kenilworth Ave, #220",Charlotte,NC,28203,35.2026242,-80.8444191,4.5,273,1,6-15,6-15,6-19,6-19,6-19,6-19,6-15
+L6qd3x0bHymyxub9dF7lIA,"Cafe Noodle & Chinese Barbeque","Chinatown","4355 Spring Mountain Rd",Las Vegas,NV,89102,36.125908,-115.197904,3.0,210,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+u8-WDsLXAl0dXQW_wqWrDg,"Broadway Burger Bar & Grill","The Strip","3790 S Las Vegas Blvd",Las Vegas,NV,89109,36.102861,-115.174257,3.5,261,1,11-23,11-23,11-23,11-23,11-0,11-0,11-23
+bFeRYpzZ81w4y-VazDWdBA,"Bill Luke Chrysler Jeep Dodge & Ram","","2425 W Camelback Rd",Phoenix,AZ,85015,33.508424,-112.110354,2.0,253,1,9-21,9-21,9-21,9-21,9-21,9-18,10-17
+efGCDASAIkHHUpMwZ-2WpQ,"BODIES... The Exhibition","The Strip","3900 Las Vegas Blvd S, The Luxor Hotel and Casino",Las Vegas,NV,89119,36.0954380777,-115.176083565,4.0,296,1,10-22,10-22,10-22,10-22,10-22,10-22,10-22
+kbaXNZLUyVuWbeQxH-NNKw,"Bell's BBQ","Anthem","10895 S Eastern Ave, Ste 130",Henderson,NV,89052,35.993777,-115.101582,4.0,265,1,11-21,11-21,11-21,11-21,11-21,11-21,11-19
+MrSHPvHVdE_VzVN7iRz45Q,"Enso Asian Bistro & Sushi Bar","Uptown","210 E Trade St, Ste A-108",Charlotte,NC,28202,35.225378,-80.841961,3.0,285,1,11-23,11-23,11-23,11-23,11-1,12-1,16-22
+EVbEdWYLE9GDpVG97MGw-w,"Macayo's Mexican Restaurants","","300 S Ash Ave",Tempe,AZ,85281,33.4277695521,-111.943175111,3.0,239,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+O1ird5yRyuDFnOmYu90OoA,"Round Corner Cantina","Lawrenceville","3720 Butler St",Pittsburgh,PA,15201,40.4666791,-79.9643786,3.5,273,1,16-0,16-0,16-0,16-2,11-2,11-2,11-0
+MqIgMLUdD53r_dmx1goYJg,"Shucks Tavern & Oyster Bar","Centennial","7155 N Durango Dr",Las Vegas,NV,89149,36.291036,-115.288192,3.5,247,1,9-9,9-9,9-9,9-9,9-9,9-9,9-9
+Lsy_RA1xk9qHFLzLNWKBww,"Pitta Souvli","","1940 S Alma School Rd, Ste 5",Chandler,AZ,85286,33.2770908,-111.8604023,4.5,209,1,11-20,11-20,11-20,11-20,11-21,12-21,12-20
+n0SSApg8pIMu9uWr7IvxcQ,"Fox Rent A Car Phoenix","","1805 E Sky Harbor Circle South",Phoenix,AZ,85034,33.4325511754,-112.043101117,2.0,227,1,7-7,7-7,7-7,7-7,7-7,7-7,7-7
+AY4qBdRtkShnjiPTdlxw_A,"Big View Diner","Ballantyne","16637 Lancaster Hwy",Charlotte,NC,28277,35.022459,-80.8483883,3.0,238,1,7-22,7-22,7-22,7-22,7-23,7-23,7-22
+1QJFpZxLbHbXSKohWp9uIA,"Red White & Brew","","6740 E McDowell Rd, Ste 102",Mesa,AZ,85215,33.467338,-111.68502,4.0,273,1,11-22,11-22,11-22,11-22,11-22,11-22,12-22
+Gh-qmVwvibLnNdqEZXcQHw,"Romeo's Euro Cafe","","207 N Gilbert Rd, Ste 105",Gilbert,AZ,85233,33.3537251724,-111.789452598,3.5,215,1,11-21,11-21,11-21,11-21,11-21,11-22,12-21
+kUTusjnUPVZUgUJc2GuWuA,"The Melting Pot","","8260 N Hayden Rd",Scottsdale,AZ,85258,33.5567426608,-111.899145542,4.0,282,1,16-22,16-22,16-22,16-22,16-23,15-23,15-22
+IsN0qEzgAXBjbT3qn6lokA,"Humble Pie","","6149 N Scottsdale Rd",Scottsdale,AZ,85250,33.5266038,-111.924627,3.5,234,1,11-22,11-22,11-22,11-22,11-22,11-22,11-21
+eTmy0-h4tTEpfbDVAue0MA,"Spinato's Pizzeria","","11108 N Frank Lloyd Wright Blvd",Scottsdale,AZ,85259,33.586656565,-111.83645015,4.0,206,1,11-21,11-21,11-21,11-21,11-22,11-22,12-20
+9vkVY5puIHRfKMgJB4LBnw,"BJ's Restaurant & Brewhouse","","21001 North Tatum Blvd.",Phoenix,AZ,85050,33.677332,-111.976552,3.5,245,1,11-0,11-0,11-0,11-0,11-1,10-1,10-23
+74pWjFssgqyhaVg-YCUo3A,"The Cracked Egg","Northwest","7660 W Cheyenne Ave",Las Vegas,NV,89129,36.2191781,-115.2624712,4.0,227,1,6-14,6-14,6-14,6-14,6-14,6-15,6-15
+VBhPgceaKWOXT71d3Jp38w,"Soba","Shadyside","5847 Ellsworth Ave",Pittsburgh,PA,15232,40.4571033,-79.9296345,4.0,250,1,17-22,17-22,17-22,17-22,17-23,17-23,17-21
+SJU-jRAZS0cXoBGUjX5GUg,"Jumping Rice & Rolls","Spring Valley","9484 W Flamingo Rd, Ste 175",Las Vegas,NV,89147,36.1157323283,-115.298611747,4.5,201,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+78XbdLi5e42XDxgnxuYacg,"Ohjah Japanese Steakhouse Sushi & Hibachi Flamingo","Spring Valley","10144 W Flamingo Rd",Las Vegas,NV,89147,36.1154163,-115.3140301,4.5,254,1,15-23,15-23,15-23,15-23,15-23,15-23,15-23
+uHUcYpGlcdlu5m7oiZGY6w,"Max's Restaurant","University","1290 E Flamingo Rd",Las Vegas,NV,89119,36.114859,-115.136639,3.0,293,1,11-21,11-21,11-21,11-21,11-22,11-22,10-21
+MiUrif_vYOuITF4ALf7WHA,"Planet Hollywood","The Strip","3500 S Las Vegas Blvd",Las Vegas,NV,89109,36.1098104085,-115.172426022,2.5,238,1,11-23,11-23,11-23,11-23,11-0,11-0,11-23
+uGcC3CKAolcwfOTMjjoexQ,"Smashburger","","7541 W Lake Mead Blvd",Las Vegas,NV,89128,36.1956879636,-115.258802564,3.5,203,1,10-22,10-22,10-22,10-22,10-22,10-22,10-22
+zqNgwQjj0_XAll-neGikIw,"Merci French Cafe & Patisserie","","7620 E Indian School Rd",Scottsdale,AZ,85251,33.49664,-111.916218,4.0,204,1,9-15,9-15,9-20,9-20,9-20,9-20,9-14
+eSLwC2iFJOU4UWXyuPiTpg,"Hennessey's Tavern","Downtown","425 Fremont St",Las Vegas,NV,89101,36.1689181,-115.1415925,3.0,279,1,9-3,9-3,9-3,9-3,9-3,9-3,9-3
+fOh0yRN8xOoiC0KebvSJ2Q,"Exotics Racing","","6925 Speedway Blvd, Ste C105",Las Vegas,NV,89115,36.2815328517,-115.021386688,4.5,204,1,9-16,9-16,9-16,9-16,9-16,9-16,9-16
+jcasci3gjbsSuTEVzvDQKg,"Mama Ricotta's Restaurant","Myers Park","601 S Kings Dr, Ste AA",Charlotte,NC,28204,35.2098855155,-80.8355979086,4.0,296,1,11-22,11-22,11-22,11-22,11-23,11-23,11-21
+iIjVO7cLD1UEmIO7G05Ujw,"Rosita's Place","","2310 E Mcdowell Rd",Phoenix,AZ,85006,33.4660268,-112.0323718,4.0,260,1,10-22,10-22,10-22,10-22,10-22,9-23,8-21
+V9bs-9SqhlryOCLy6vk6gg,"Tim Finnegan's Irish Restaurant and Pub","","9201 N 29th Ave",Phoenix,AZ,85051,33.5691369028,-112.120358001,4.0,225,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+j2w6wlRmlaZaaErQus8ElQ,"Pita House","Southeast","1310 E Silverado Ranch Blvd, Ste 101",Las Vegas,NV,89183,36.014112,-115.1349296,4.5,203,1,11-20,11-20,11-20,11-20,11-20,11-20,11-20
+jN00dj1opLMyFczkCTptqQ,"7 Day Spa & Nails","","2040 E Rio Salado Pkwy, Ste 115",Tempe,AZ,85281,33.4324199,-111.9025318,3.0,201,1,9-19,9-19,9-19,9-19,9-19,9-19,10-17
+-a857YYdjzgOdOjFFRsRXQ,"Beer Park","The Strip","3655 S Las Vegas Blvd",Las Vegas,NV,89109,36.1121062442,-115.172506542,4.0,232,1,11-0,11-0,11-0,11-0,11-2,9-2,9-0
+DB9BRdu7is0AK1DvcuKlcw,"Five Guys Burgers and Fries","Spring Valley","9484 W Flamingo Rd, Ste 180",Las Vegas,NV,89147,36.1158067,-115.2987479,4.0,241,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+0KjY3gmtqQjc4sK-uG-6fQ,"Pink Box Doughnuts","Anthem","10251 S Eastern Ave, Ste C",Henderson,NV,89052,36.0033972,-115.1104709,4.0,233,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+eoJfl5vG7X87QhcKb0nt5Q,"Hofbrauhaus Cleveland","Playhouse Square","1550 Chester Ave",Cleveland,OH,44114,41.5031245,-81.6812075,3.0,223,1,11-23,11-23,11-23,11-23,11-2,11-2,11-23
+LNOnYo13ggdoEGD-syYHIA,"Feast Buffet","Anthem","2300 Paseo Verde Pkwy",Henderson,NV,89052,36.0206092246,-115.089838748,3.0,280,1,8-21,8-21,8-21,8-21,8-21,8-21,8-21
+e-cxqDjKEHEcISP2iGcZxg,"Blue Martini Lounge","","5455 E High St, Ste 101",Phoenix,AZ,85054,33.6753261878,-111.963375202,3.5,267,1,16-0,16-0,16-2,16-2,16-2,16-2,16-2
+PycR_Mr5jA9jB4Xg3nX0Yw,"Payless Car Rental","","Phoenix Sky Harbor International Airport, 1805 E Sky Harbor Cir S",Phoenix,AZ,85034,33.4410804453,-112.025810677,1.0,276,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+gLOc1Fzl8yuKGq7B1TWj_A,"Pink Polish","","5055 W Ray Rd, Ste 15",Chandler,AZ,85226,33.3192377,-111.9294836,4.0,262,1,10-19,10-19,10-19,10-19,9-19,9-18,11-17
+k2b3niokS_tosjah_rzCPw,"Metro Pizza","Centennial","6720 Sky Pointe Dr",Las Vegas,NV,89131,36.2867051837,-115.274604778,3.5,207,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+r8hF3kwnZzxTo1IYNcI6rg,"El Sombrero Mexican Bistro","Downtown","807 S Main St",Las Vegas,NV,89101,36.1627231,-115.1512318,4.0,298,1,11-21,11-21,11-21,11-21,11-22,11-22,11-15
+34VuBMNaG9nJiyqsnoEgPg,"Nori Sushi","","21001 N Tatum Blvd, Ste 48",Phoenix,AZ,85050,33.6762311588,-111.971345034,4.0,264,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+67X6JB3kvZ2B_p8pucgNXA,"Kona Grill","","5310 E High St, Ste 101",Phoenix,AZ,85054,33.67681,-111.966607,3.5,242,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+38-sjGYYVcQEKrZe5Nu47A,"Johnny Mac's Restaurant & Bar","","842 S Boulder Hwy",Henderson,NV,89015,36.0267215,-114.9648073,4.0,252,1,11-22,11-22,11-22,11-22,11-22,11-22,11-21
+ehaoreB8IzKY8KvRGqxcUA,"Fuel & Fuddle","Oakland","212 Oakland Ave",Pittsburgh,PA,15213,40.4412454,-79.9566016,3.5,227,1,11-1,11-1,11-1,11-1,11-1,11-1,11-1
+iB9By3dVS6BydSUiDHxLyw,"Half Moon Sports Grill","","2121 E Highland Ave",Phoenix,AZ,85016,33.5054706,-112.0370088,3.0,273,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+Ks0M3J4vZAKsHPuCINz5fQ,"The Cupcakery","","7175 W Lake Mead Blvd",Las Vegas,NV,89128,36.1955021,-115.2482722,3.5,230,1,8-20,8-20,8-20,8-20,8-20,9-20,10-18
+2qjvYspb3bEmCaw1vmSk0g,"Sushi Muramoto","","546 N Midvale Blvd",Madison,WI,53705,43.0722438447,-89.4523339244,4.0,206,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+zw4Legbcu018p5WcZ74iWA,"Patati Patata","Plateau-Mont-Royal","4177 Boulevard Saint-Laurent",Montreal,QC,H2W 1Y7,45.5180522808,-73.5814570504,4.0,221,1,8-2,8-2,8-2,8-2,8-2,8-2,8-2
+PJPO9AYkt__t4kSWdSWnfw,"MTO Café","South Summerlin","10970 Rosemary Park Dr, Ste 100",Las Vegas,NV,89135,36.1508714858,-115.33308159,3.5,235,1,9-19,9-19,9-19,9-19,9-20,8-20,8-19
+w1clLiXOo-yLhNjt5jDBCA,"Union Social Eatery","","6986 Financial Drive, Unit 6",Mississauga,ON,L5N 8J4,43.6110076,-79.7498791,4.0,222,1,11-0,11-0,11-0,11-1,11-1,11-1,11-23
+5Dccw539NNtnyCgTu5ed5A,"Thai House","Southeast","9850 S Maryland Pkwy, Ste 17",Las Vegas,NV,89183,36.0105784998,-115.134144854,3.5,292,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+Wnq5to0-jXyh0-_jRZ6VOQ,"Z Tejas","","20 W 6th St",Tempe,AZ,85281,33.4245625,-111.9409053,3.5,245,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+2BuY5r2GWoai6IAn9FptCg,"Spa & Salon At ARIA","The Strip","3730 Las Vegas Blvd S",Las Vegas,NV,89109,36.10737,-115.173177,4.0,229,1,5-20,5-20,5-20,5-20,5-20,5-20,5-20
+qfj5Ih8-6RPF2ccvNGvCcg,"Apple Store","Southeast","6671 Las Vegas Blvd",Las Vegas,NV,89119,36.0675906146,-115.177863836,3.0,216,1,10-21,10-21,10-21,10-21,10-22,10-22,11-20
+4mb32UmQULqg7IMck28vog,"Pinches Tacos","Spring Valley","9205 W Russell Rd, Ste 190",Las Vegas,NV,89148,36.0845762,-115.2932145,4.0,273,1,9-23,9-23,9-23,9-23,9-1,9-1,9-22
+8K5fQnv3YZIIhERyU82UBg,"Boustan","Ville-Marie","2020 Rue Crescent",Montréal,QC,H3G 2B8,45.498098,-73.5778296,4.0,267,1,11-4,11-4,11-4,11-4,11-4,11-4,17-4
+sv694ZNBZfoC18OL5eRVuw,"Springs Preserve","Westside","333 S Valley View Blvd",Las Vegas,NV,89136,36.1712309206,-115.190473429,4.0,282,1,9-17,9-17,9-17,9-17,9-17,9-17,9-17
+bzyoY6HHZJS39fspg-6DrA,"Dickey's Barbecue Pit","Southeast","7430 Las Vegas Blvd. South",Las Vegas,NV,89123,36.0544189,-115.1714995,3.5,203,1,11-21,11-21,11-21,11-21,11-21,11-21,11-21
+VrIskBdLuRxS0HsSimJOhA,"Tilted Kilt Pub & Eatery","","2 E Jefferson St",Phoenix,AZ,85003,33.4471695,-112.0738049,3.0,274,1,11-0,11-0,11-0,11-0,11-2,11-2,11-0
+cUwNW5NEua_yMcAx-X2sMg,"Grumpy's Cafe","Tremont","2621 W 14th St",Cleveland,OH,44113,41.476519,-81.690993,4.0,223,1,7-15,7-15,7-15,7-15,7-22,8-22,8-15
+Ey1iEY8yAQG5MEBZPQ_niQ,"Fremont Hotel & Casino","Downtown","200 Fremont St",Las Vegas,NV,89101,36.1710681,-115.145324,3.0,235,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+bcgpyqPjC81lODTHzL_Mhw,"Legacy Air","","6525 Button Quail St",Las Vegas,NV,89084,36.278148,-115.185966,5.0,270,1,8-20,8-20,8-20,8-20,8-20,8-17,8-17
+w2b0ve7xpuCQkwYICFIUOg,"Pasta Shop Ristorante","Anthem","2525 W Horizon Ridge Pkwy",Henderson,NV,89052,36.0053734,-115.0965399,4.0,252,1,17-21,17-21,17-21,17-21,17-21,17-21,17-21
+4MQaqhBUJCpghGukSWNq7w,"The Loose Moose","Downtown Core","146 Front Street West",Toronto,ON,M5J 1G2,43.6452325,-79.383897,3.5,243,1,11-1,11-1,11-1,11-2,11-2,11-2,11-0
+9c3LlXubVkbMwIrS8dIp0Q,"Ribs & Burgers","South Summerlin","2010 Festival Plaza Dr, Ste 170",Las Vegas,NV,89135,36.149123,-115.332938,3.5,258,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+48vnBJK0B95JpO0_OMrTQw,"No Cover Nightclubs","","4575 Dean Martin Dr",Las Vegas,NV,89103,36.1069761,-115.1824623,4.5,204,1,12-2,12-2,12-2,12-2,12-2,12-2,12-2
+yF9G4dJAm94pfnEWzPtPYQ,"Organ Stop Pizza","","1149 E Southern Ave",Mesa,AZ,85204,33.3927653,-111.8076814,3.5,233,1,17-21,17-21,17-21,17-21,17-22,16-22,16-21
+R1oI13c1oNxE91wkjYDeow,"Pure Sushi","","20567 N Hayden Rd, Ste 100",Scottsdale,AZ,85255,33.6716432,-111.9057779,4.0,229,1,11-22,11-22,11-22,11-22,11-23,11-23,11-21
+FsCujpVh9Za2Dl5MIYLCxA,"Zu Izakaya Asian Kitchen","","2210 N Scottsdale Rd",Tempe,AZ,85281,33.4525298384,-111.926886571,4.5,295,1,16-1,16-1,16-1,16-1,16-2,16-2,16-22
+s5jo4xojsezzl8TKP7XKtQ,"Greenfield Nails & Spa","","888 S Greenfield Rd, Ste 104",Gilbert,AZ,85296,33.3349694,-111.7396046,4.5,219,1,9-19,9-19,9-19,9-19,9-19,9-18,10-17
+vx1gUYqYQE2O5rfOrUi-Cw,"Hyatt Regency Phoenix","","122 North 2nd St",Phoenix,AZ,85004,33.449858,-112.071886,3.5,224,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+R7LyTeiOHLyTNkA8HssBRQ,"Los Tacos","Westside","4001 W Sahara Ave",Las Vegas,NV,89102,36.1441999,-115.1944048,4.0,270,1,10-22,10-22,10-22,10-22,10-22,10-22,10-22
+WU4wM-uD1INThG6F3sGzCQ,"Kimpton Palomar Hotel Phoenix Cityscape","","2 E Jefferson St",Phoenix,AZ,85004,33.4474723,-112.0732602,4.5,213,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+5JjGTaZkHbbjBrzBODcsAQ,"Daisho Sushi","Southeast","7435 S Eastern Ave",Las Vegas,NV,89123,36.055832,-115.120023,4.0,207,1,11-23,11-23,11-23,11-23,11-23,11-23,11-23
+plHKBwA18aWeP-TG8DC96Q,"Smoke BBQ Taqueria","Lawrenceville","4115 Butler St",Pittsburgh,PA,15201,40.4699387,-79.9610646,3.5,255,1,11-22,11-22,11-22,11-22,11-23,11-23,11-15
+JezHN-9KKLTMbojq00VP0g,"Le Petit Triangle Café","Ohio City","1881 Fulton Rd",Cleveland,OH,44113,41.4831995,-81.7102123,4.0,257,1,10-22,10-22,10-22,10-22,10-23,10-23,10-21
+HaWU8ICNtjIkCN_ZNrx1hw,"Illumilatte Brew Society","Spring Valley","6825 W Russell Rd, Ste 155",Las Vegas,NV,89118,36.0845009115,-115.241361431,4.0,217,1,6-0,6-0,6-0,6-0,6-0,6-0,8-20
+I4Nr-MVc26qWr08-S3Q1ow,"Greenberg's Deli","The Strip","New York New York Hotel, 3790 Las Vegas Blvd S",Las Vegas,NV,89136,36.1022287,-115.1745851,4.0,245,1,9-22,9-22,9-22,9-22,9-22,9-22,9-22
+ZtsnwjxjzMUI6tDZNrJUeA,"Montana Meat Company","Southwest","9135 S Durango",Las Vegas,NV,89113,36.0219644,-115.2796586,3.5,276,1,6-6,6-6,6-6,6-6,6-6,6-6,6-6
+Uvq6V0G784vJzYFjLddIgg,"Tru Burger Co.","","9828 W Northern Ave, Ste 1705",Peoria,AZ,85345,33.553539,-112.2707901,4.0,237,1,11-20,11-20,11-20,11-20,11-22,11-22,11-20
+F0lI9okn4pzmN_iq5UqF7w,"Pieology Pizzeria","South Summerlin","10965 Lavender Hills Dr, Ste 130",Las Vegas,NV,89135,36.1449601851,-115.332681937,4.0,256,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+iuSq6jpt-r-7JxqXE5hK6g,"Heart and Soul Cafe","","4705 E Carefree Hwy",Cave Creek,AZ,85331,33.7984809875,-111.979133606,4.0,200,1,7-14,7-21,7-21,7-21,7-21,7-21,7-14
+z8XIldYr65CKOz8yOI5R8A,"JW Marriott Las Vegas Resort & Spa","Westside","221 N Rampart Blvd",Las Vegas,NV,89145,36.1746157219,-115.290709838,3.5,275,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+TXS-9SUkjpZFz29XOB1SPg,"M&M Soul Food Cafe","The Strip","2211 S Las Vegas Blvd",Las Vegas,NV,89104,36.1453494842,-115.156019926,3.0,217,1,7-20,7-20,7-20,7-20,7-20,7-20,7-20
+hPclwunHi36YV8cPghWJBg,"Thai Food To Go","Eastside","3242 E Desert Inn Rd, Ste 9",Las Vegas,NV,89121,36.130228,-115.103766,4.5,277,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+OFNXLfKbnsh7zV6Iu3EbyA,"Flamingo Pizza","Chinatown","3500 Wynn Rd",Las Vegas,NV,89103,36.1262137014,-115.194479712,3.5,243,1,10-4,10-4,10-4,10-4,10-6,10-6,10-4
+EvWGuX0eqKcZvLRgtIFHZg,"Eddie's Place","Cotswold","617 S Sharon Amity Rd",Charlotte,NC,28211,35.1717635,-80.8062086,4.0,204,1,7-22,7-2,7-2,7-2,7-2,8-2,8-22
+R1jJQi2yR44D_2ileqr8kA,"Luna's Living Kitchen","South End","2000 S Blvd, Ste 300",Charlotte,NC,28203,35.2090265771,-80.8611555105,4.5,214,1,8-21,8-21,8-21,8-21,8-21,8-21,9-15
+DOPUavsTUzTcpn3PrK5tUw,"Total Wine & More","Westside","730 S Rampart Blvd",Las Vegas,NV,89145,36.163086,-115.28854,4.5,239,1,8-22,8-22,8-22,8-22,8-23,8-23,8-22
+CZKkoMlqu0N0zCFK-3T_Fg,"Spoon","Shadyside","134 S Highland Ave",Pittsburgh,PA,15206,40.4600439843,-79.9252199797,4.0,250,1,17-22,17-22,17-22,17-22,17-23,17-23,17-21
+fuW-VCynECpKukrm-9nxdg,"Guy Fieri's El Burro Borracho","","Rio All-suite Hotel And Casino, 3700 W Flamingo Rd",Las Vegas,NV,89103,36.1164467,-115.1848942,3.5,227,1,17-22,17-22,17-22,17-22,17-22,17-22,17-22
+KUOa1acSFn6DkO9jp-sn6A,"Famous Dave's Bar-B-Que","Southwest","4390 Blue Diamond Rd",Las Vegas,NV,89139,36.0372728,-115.1984441,3.5,239,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+oH6QAuoTLFaX97oqqpLTMg,"Familia Pizzeria","Southwest","8090 S Durango Dr",Las Vegas,NV,89113,36.042461,-115.2782,4.0,253,1,11-22,11-22,11-22,11-22,11-22,11-22,11-21
+w7r_pDUR56k0raVroQhhww,"Steiner's A Nevada Style Pub","Southeast","8168 Las Vegas Blvd S",Las Vegas,NV,89123,36.0407804215,-115.171651706,4.0,267,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+lMYs3z3Y7977TVMn6OWObA,"Black Bear Diner","","2751 N. Green Valley Pkwy",Henderson,NV,89104,36.0698811698,-115.082818083,3.5,294,1,6-22,6-22,6-22,6-22,6-22,6-22,6-22
+tcgmfbWugkHI3FRrjlH6lQ,"Feeney's Restaurant and Bar","","6314 N 12th St",Phoenix,AZ,85014,33.5300239,-112.0567106,4.0,220,1,11-22,11-21,11-22,11-22,11-22,16-22,10-21
+-rLP6lfoQmOO_5Pf2bTkqg,"Lazy Jane's","Williamson - Marquette","1358 Williamson St",Madison,WI,53703,43.0853653,-89.3617096,4.0,214,1,7-15,7-15,7-15,7-15,7-15,8-14,8-14
+FgTzITgrmvrZqoHvkTSDzA,"Jerome Bettis' Grille 36","North Side","393 N Shore Dr",Pittsburgh,PA,15212,40.4455502,-80.0113372,3.5,286,1,11-22,11-22,11-22,11-22,11-0,11-0,11-22
+aZG9Hp8fdgzq37iuB1QTYg,"Carowinds","Steele Creek","14523 Carowinds Blvd",Charlotte,NC,28273,35.1032362,-80.9437367,3.5,210,1,10-22,10-22,10-22,9-18,9-22,10-22,10-22
+q3oJ6bNRV3OoJrwc95GOwg,"Dirt Dog","Southwest","8390 S Rainbow Blvd, Ste 100",Las Vegas,NV,89139,36.0360346,-115.2429957,4.5,213,1,11-22,11-22,11-22,11-23,11-23,11-23,11-22
+jCNBZnkIFv_0omLVTgNR6Q,"Pure Indian Cuisine","Southeast","1405 E Sunset Rd, Ste 200",Las Vegas,NV,89119,36.0712103,-115.1341397,4.5,259,1,11-0,11-0,11-3,11-3,11-3,11-3,11-3
+7dKIMvsTQI6zO-NYdRmrwA,"The Codfather","","1618 E Bell Rd, Ste 101",Phoenix,AZ,85022,33.6409715,-112.0472208,3.5,223,1,10-21,10-21,10-21,10-21,10-21,10-21,10-21
+FYqFfaxVRW6pdviONXIoDw,"Fleming's Prime Steakhouse & Wine Bar","Southeast","6515 S Las Vegas Blvd",Las Vegas,NV,89119,36.0695675256,-115.173747385,4.0,267,1,17-22,17-22,17-22,17-22,17-23,17-23,16-22
+HyKxWC9PrqlODjO-CBCIZA,"Naked City Pizza On Paradise","Eastside","4608 Paradise Rd",Las Vegas,NV,89169,36.1060079,-115.1509771,4.0,239,1,11-23,11-23,11-23,11-3,11-3,11-3,11-1
+3oTVApC-eUzpGjrOVxIr5g,"The Cheesecake Factory","","2402 East Camelback, Space #101",Phoenix,AZ,85016,33.5100084468,-112.029651966,3.5,257,1,11-23,11-23,11-23,11-23,11-0,11-0,10-23
+w1fJzm0ladnhvT7Jc0MJ6w,"Executive Men's Grooming by Tony Starks","","785 W Warner Rd, Ste 102",Gilbert,AZ,85233,33.333771529,-111.805938584,5.0,225,1,6-20,6-20,6-20,6-20,6-20,7-18,7-18
+kwMJ4KfhEcrk9jiMe-S6wQ,"Mercurio's","Shadyside","5523 Walnut St",Pittsburgh,PA,15232,40.4515766,-79.9328425,4.0,247,1,11-21,11-22,11-22,11-22,11-23,11-23,11-21
+1dhPgc7E7IzzpxjHM2LphQ,"Mad Mex - Oakland","Oakland","370 Atwood St",Pittsburgh,PA,15213,40.438019,-79.954209,3.5,228,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+TtbCOwOpNNzE7fW5CFwyng,"Bosa Donuts","","3722 E Indian School Rd",Phoenix,AZ,85018,33.4954465,-112.0011033,4.0,275,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+xTlmLL2xZZ0xhZ2J16zXQQ,"Holley's Cuppa","Southwest","9265 S Cimarron Rd, Ste 115",Las Vegas,NV,89178,36.019171,-115.270965,4.0,247,1,6-18,6-18,6-18,6-18,6-18,6-18,7-18
+JjjlhlQ2LEaQMuAug4fDIA,"Yi Mei Champion Taiwan Deli","Chinatown","3435 S Jones Blvd",Las Vegas,NV,89146,36.126816,-115.2250079,3.5,209,1,7-21,7-21,7-21,7-21,7-21,7-21,7-15
+HqlzinXIqYe7aDexEDwSBA,"Angry Crab Shack","","310 N Litchfield Rd",Goodyear,AZ,85338,33.4502610986,-112.358918153,4.0,207,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+ku9ak9cQnIGBCXBtRd61tQ,"Spoke & Wheel","","8525 N Central Ave",Phoenix,AZ,85020,33.5612361,-112.0737398,4.0,220,1,11-21,11-21,11-21,11-21,11-22,10-22,10-21
+c35qzLN6ItDpVIoj2uQW4Q,"Ravi Soups","Entertainment District","322 Adelaide Street W",Toronto,ON,M5V 1R1,43.6474909,-79.3919541,4.5,286,1,11-22,11-22,11-22,11-22,11-22,11-20,11-18
+if59L5DHM4pPMrCx9HuD8A,"Main Street Station Casino Brewery Hotel","","200 North Main Street",Las Vegas,NV,89101,36.1743204,-115.1452597,3.5,286,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+3_A59jPniLD5ViVuKMYpJw,"Acacia Cafe","","3701 E Indian School Rd",Phoenix,AZ,85018,33.494927,-112.001969,4.0,211,1,7-15,7-15,7-15,7-15,7-15,7-14,7-14
+SvCjBtbN1cKElDKPTw9dOA,"Monterey Bay Fish Grotto","Duquesne Heights","1411 Grandview Ave",Pittsburgh,PA,15211,40.439059,-80.021242,4.0,291,1,17-22,17-22,17-22,17-22,17-23,17-23,17-21
+YU2XR_ZY-g2VzDpi7KMzEw,"Icy Juicy","Chinatown","3400 S Jones Blvd, Ste 20",Las Vegas,NV,89146,36.1266014497,-115.224371644,3.5,216,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+Mv7N0bU56dhtoDP-m2JOow,"Sonoma Grille","Downtown","947 Penn Ave",Pittsburgh,PA,15289,40.4444445,-79.996451,3.5,294,1,11-23,11-23,11-23,11-23,11-23,11-23,11-22
+KVqWA98XZwGhJ3YbFNi0vw,"Salted Malted Bakery & Creamery","","6584 N Decatur Blvd, Ste 120",North Las Vegas,NV,89084,36.2798653434,-115.205750417,4.5,298,1,11-21,11-21,11-21,11-21,11-22,9-22,9-21
+_tdW1CRiHJKJf-nWn7j0eA,"Pristine Cleaning House Cleaning Las Vegas","","3995 W Quail Ave",Las Vegas,NV,89118,36.0836664,-115.1931497,4.0,247,1,8-19,8-19,8-19,8-19,8-19,8-19,8-19
+ZDt9V3Gi5OcCKSCt8HfQEQ,"Superior Tire - Goodyear Auto Service Center","Spring Valley","5567 S Rainbow Blvd",Las Vegas,NV,89118,36.0881,-115.244,5.0,226,1,7-18,7-18,7-18,7-18,7-18,7-18,8-17
+zbrFk-4ejesAJD8EwcdHxg,"Valle Luna","","16048 N Cave Creek Rd",Phoenix,AZ,85032,33.6329335,-112.031367,3.5,255,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+IWOQNyRqWrnqQA5K49eK5g,"Hot N Juicy Crawfish","","740 S Mill Ave, Ste 185",Tempe,AZ,85281,33.423003027,-111.940655568,3.5,271,1,12-22,12-22,12-22,12-22,12-23,12-23,12-22
+n7V4cD-KqqE3OXk0irJTyA,"GameWorks","Southeast","6587 Las Vegas Blvd S, Ste 171",Las Vegas,NV,89119,36.0682585154,-115.1788768,3.0,264,1,11-0,11-0,11-0,11-0,11-1,10-1,10-0
+hDL3Q-GNQlOuE04_zWEMJA,"Krazy Buffet","Westside","8095 W Sahara Ave",Las Vegas,NV,89117,36.1432784,-115.2674831,3.5,273,1,11-20,11-20,11-20,11-20,11-21,11-21,11-21
+be_yaOiBVVHngU1jFQV2rA,"Discovery Children's Museum","Downtown","360 Promenade Pl",Las Vegas,NV,89106,36.168662,-115.152538,4.5,203,1,9-16,9-16,9-16,9-16,9-16,10-17,12-17
+7wMB3wMbOp0gq3l6nHfOaA,"Ramen Bar","Squirrel Hill","5860 Forbes Ave",Pittsburgh,PA,15217,40.4379625915,-79.9206533432,3.5,201,1,12-22,12-22,12-22,12-22,12-23,12-23,12-22
+1gQrMs-I8oKg2p-iRxznzQ,"Soho Chicken + Whiskey","Ohio City","1889 W 25th St",Cleveland,OH,44113,41.4855634,-81.7041418,4.0,228,1,,17-22,17-22,17-22,17-22,17-22,11-14
+yy7pPm_QGVRm6exD__Htug,"India Masala Bar & Grill","Eastside","1040 E Flamingo Rd",Las Vegas,NV,89119,36.115142,-115.141869,4.0,241,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+yKaIT0fnxEj0YVr1DMHvuQ,"Arizona's Dukes of Air","","6938 E Parkway Norte",MESA,AZ,85212,33.339222,-111.683711,5.0,261,1,7-19,7-19,7-19,7-19,7-19,7-19,7-19
+Cp-clhAJs3NJRwXpXk_saw,"The Whining Pig","","1612 E Bethany Home Rd",Phoenix,AZ,85016,33.523744,-112.0467307,5.0,299,1,15-0,15-0,15-0,15-2,15-2,15-2,15-22
+5Lcit9Zt6TF9bmKoFMhF0g,"Noodle Pot","Chinatown","4215 Spring Mountain Rd, Ste B112",Las Vegas,NV,89102,36.1253970859,-115.196422914,3.5,253,1,10-0,10-0,10-0,10-0,10-0,10-0,10-0
+DLJCwHGtbAV31UQ1lnIjlw,"Siena Italian Authentic Trattoria and Deli","Westside","9500 W Sahara Ave",Las Vegas,NV,89117,36.1449499,-115.301818,3.5,230,1,8-1,8-1,8-1,8-1,8-1,8-1,8-23
+8OeHn9KCbICuRBs_XiDDUA,"Buffalo Chip Saloon & Steakhouse","","6823 E Cave Creek Rd",Cave Creek,AZ,85331,33.8316835,-111.9345868,3.5,226,1,10-0,10-0,10-0,10-0,10-2,10-2,10-2
+2MpSWir6lVaTmJHtLCyP7g,"St-Viateur Bagel","Plateau-Mont-Royal","263 Rue St-Viateur Ouest",Montréal,QC,H2V 1Y1,45.522435,-73.602111,4.0,273,1,6-6,6-6,6-6,6-6,6-6,6-6,6-6
+SAfuIUZMXrOnb3LWyvYjDA,"Jun's Korean Restaurant","","8826 S Eastern Ave, Ste 113",Las Vegas,NV,89123,36.029295364,-115.115884515,3.5,215,1,11-21,11-21,11-21,11-21,11-21,11-21,11-21
+CK-Gv3vqIlWOrKP4fhT8_g,"D's Six Pax & Dogz","","1118 S Braddock Ave",Pittsburgh,PA,15218,40.432022,-79.893834,4.5,295,1,11-23,11-23,11-23,11-0,11-0,11-0,11-23
+fCJrZIzz85_8Uhf072QVnA,"Village Tavern","","8787 N Scottsdale Rd",Scottsdale,AZ,85258,33.5643780085,-111.924469623,4.0,233,1,11-0,11-0,11-0,11-0,11-1,11-1,11-22
+gxEkxkqQrrK62DJnXxXDLg,"Smashburger","","1949 E Camelback Rd, Ste 164",Phoenix,AZ,85016,33.5078576,-112.0403713,3.5,204,1,10-22,10-22,10-22,10-22,10-22,10-22,10-22
+S1N5-ZXwR4fUIPs6dLnBYQ,"Hue Thai","Chinatown","5115 Spring Mountain Rd, Ste 223",Las Vegas,NV,89146,36.125587,-115.211199,3.5,288,1,9-22,9-22,9-22,9-22,9-22,9-22,9-22
+0PMKMyfX1j7Nc4esk1RaMg,"Humble Pie","","21050 N Tatum Blvd",Phoenix,AZ,85050,33.6780427039,-111.978699265,3.5,239,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+VaKXUpmWTTWDKbpJ3aQdMw,"Buffalo Wild Wings","Southwest","7345 S Durango Dr, Ste 118-121",Las Vegas,NV,89113,36.0551540144,-115.28142949,3.5,271,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+YBLVD61RFdP5H-RGLSIPUw,"Las Vegas Athletic Club","Spring Valley","9615 W Flamingo Rd",Las Vegas,NV,89147,36.1122865423,-115.30134201,3.0,300,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+c6f8wBjPLDzyubEBqgcMnw,"Fahrenheit Coffee","Corktown","120 Lombard Avenue",Toronto,ON,M5A 4J6,43.652445243,-79.3729323268,4.5,225,1,7-18,7-18,7-18,7-18,7-18,8-17,9-15
+IbDCaYwFi-e-nhEmH-FYPA,"Kona Grill","","Chandler Fashion Center, 3111 W Chandler Blvd",Chandler,AZ,85226,33.3056575,-111.8977551,3.5,270,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+GPVHfoDjSOivqgIDjIOA-Q,"Hot N Juicy Crawfish","","6751 N Sunset Blvd",Glendale,AZ,85305,33.5342965737,-112.261606542,3.0,235,1,12-22,12-22,12-22,12-22,12-22,12-23,12-23
+JrEMvvNR1rUVkAMvPPZYkg,"Danky's Bar-B-Q","","4727 E Bell Rd, Ste 31",Phoenix,AZ,85032,33.6384005,-111.9795246,4.5,210,1,11-20,11-20,11-20,11-20,11-20,11-20,11-18
+3sI_seI268r85-uyOmEyEw,"Overnight Prints","Southeast","7582 Las Vegas Blvd S, Ste 487",Las Vegas,NV,89123,36.0519379,-115.1722398,2.5,254,1,6-17,6-17,6-17,6-17,6-17,8-16,8-16
+HwEDsb1xtRBTuFwATTRjpA,"The Cheesecake Factory","","3111 W Chandler Blvd, Ste 2100",Chandler,AZ,85226,33.3056575,-111.8977551,3.0,269,1,11-23,11-23,11-23,11-23,11-0,11-0,10-22
+dc3uoAmNo5STqKV6mlD_aA,"The Drake Hotel","West Queen West","1150 Queen Street W",Toronto,ON,M6J 1J3,43.6432048,-79.4246377,3.5,267,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+HYKTKG3X7jtLe6elxp63JQ,"Off the Hook","Spring Valley","4155 S Buffalo Dr, Ste 105",Las Vegas,NV,89147,36.113303,-115.2618547,4.5,230,1,11-20,11-20,11-20,11-20,11-21,11-20,12-18
+3Qi7NwTpAc3Oh1-wMb546w,"Yes! Air Conditioning & Plumbing","Spring Valley","6275 S Pioneer Way",Las Vegas,NV,89113,36.07408,-115.257127,3.5,234,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+-wCtRhzWJ40Z4F8mmg7kWg,"Herringbone","The Strip","3730 Las Vegas Blvd S",Las Vegas,NV,89109,36.1073485,-115.1765836,4.0,215,1,11-22,11-22,11-22,11-22,11-23,10-23,10-22
+M-ajUawvXeHSqpeM_2UDOg,"Alamo Rent A Car","","1805 E Sky Harbor Cir S",Phoenix,AZ,85034,33.4306973,-112.0451093,4.0,262,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+O3OH5IEFMPtz7mPKakPZ3Q,"Japaneiro","Southwest","7315 W Warm Springs Rd, Ste 170",Las Vegas,NV,89113,36.0552046,-115.2509345,4.5,285,1,18-3,18-3,18-3,18-3,18-3,18-3,18-3
+AnXovUgUHJap3QaDRnjL1w,"Blueberry Hill Family Restaurant","Eastside","3790 E Flamingo Rd",Las Vegas,NV,89121,36.1161975,-115.092388,4.0,285,1,6-21,6-21,6-21,6-21,6-21,6-21,6-21
+R6dsQhkBRq2qwwPnqommKw,"Pointe Hilton Tapatio Cliffs Resort","","11111 N 7th St",Phoenix,AZ,85020,33.5950968646,-112.065436542,3.0,260,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+PQicuLOZ3uNJKn4PtayjlQ,"Shake Shack","","100 E Camelback Rd, Ste 100",Phoenix,AZ,85012,33.5105643382,-112.07333837,3.0,220,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+EhtKeNUGGWnjsCLIhCD1jQ,"Wild Horse Pass Hotel and Casino","","5040 Wild Horse Pass Blvd",Chandler,AZ,85226,33.2815660319,-111.972956657,3.0,233,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+fZM_o3kKZ9mR-1pvBeow8A,"Tempe Marketplace","","2000 E Rio Salado Pkwy",Tempe,AZ,85281,33.4329144,-111.9054505,3.5,203,1,11-21,11-21,11-21,11-21,11-21,11-21,11-18
+rnx0KHHTD9Yvr2BWAWwQ4g,"Daisy Cafe & Cupcakery","Schenk - Atwood","2827 Atwood Ave",Madison,WI,53704,43.0936724,-89.3426022,4.0,215,1,8-15,8-20,8-20,8-20,8-20,8-20,8-15
+ErHMVkPstNyefb3ZU_z1Cw,"zpizza","","53 W Thomas Rd",Phoenix,AZ,85013,33.479992,-112.076718,3.5,229,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+p81LV6y6Jxz_q_3HL06jOw,"RA Sushi Bar Restaurant","","13802 N Scottsdale Rd, Ste 176",Scottsdale,AZ,85254,33.6107539581,-111.926453392,3.5,250,1,11-0,11-0,11-0,11-0,11-1,11-1,11-0
+PCiyAPyWO9_6IUWgw7Pwog,"Alo Cafe","","6960 E 1st St",Scottsdale,AZ,85251,33.4924038583,-111.930992827,4.5,295,1,7-14,7-14,7-14,7-14,7-14,7-14,7-14
+XkvvUNCmLIvOts0OftXegw,"Original Pancake House","Spring Valley","4170 S Ft Apache Rd",Las Vegas,NV,89147,36.1135009105,-115.296490917,3.5,279,1,7-14,7-14,7-14,7-14,7-14,7-15,7-15
+5KheTjYPu1HcQzQFtm4_vw,"Arriba Mexican Grill","","1812 E Camelback Rd",Phoenix,AZ,85016,33.5095793,-112.042585,3.5,224,1,11-22,11-22,11-22,11-22,11-23,8-23,8-22
+x4aHNNo1osWNCB75q_PijQ,"Pomo Pizzeria -  Scottsdale","","8977 N Scottsdale Rd, Ste 504",Scottsdale,AZ,85253,33.5670239,-111.9254205,4.0,300,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+_xAJZOKBMPOe47p1MphB2w,"Fishman Lobster Clubhouse Restaurant","Scarborough","680 Silver Star Boulevard",Toronto,ON,M1V 4S5,43.8242335814,-79.3007954253,4.0,288,1,11-23,11-23,11-23,11-23,11-23,11-23,11-23
+AFgPDQm_pczo5uV3yQBgwg,"Crave Waffle Sandwich Creations","","9380 W Westgate Blvd, Ste D-103",Glendale,AZ,85305,33.5348101594,-112.260623259,3.5,204,1,9-21,9-21,9-21,9-21,8-22,8-22,8-21
+2auigv5pF08RjJ8CL1dIVw,"O&B Canteen","Entertainment District","330 King Street W, Tiff Bell Lightbox",Toronto,ON,M5V 3X2,43.6464088498,-79.3899822895,3.0,226,1,8-22,8-23,8-23,8-23,8-23,8-23,8-22
+sUXs9ATmb423TcxgtMalzQ,"Penn's Thai House","","724 W Sunset Rd",Henderson,NV,89011,36.0645190234,-115.023740106,4.0,246,1,11-21,11-21,11-21,11-21,11-21,11-21,11-21
+UJ3J2vIJOrxQ9q7M06Wm4Q,"Mandalay Bay Beach","The Strip","3950 S Las Vegas Blvd",Las Vegas,NV,89119,36.0908025,-115.1727807,3.5,245,1,8-20,8-20,8-20,8-20,8-20,8-20,8-20
+jqgdPl6C5TMic5001TCY3Q,"Tempe Honda","","8030 S Autoplexloop",Tempe,AZ,85284,33.3425388,-111.9658974,4.0,224,1,8-21,8-21,8-21,8-21,8-21,8-20,10-18
+d0z2wUeAuqB5eSpMQ4fC1w,"AutoNation Toyota Tempe","","7970 South Autoplex Lp",Tempe,AZ,85284,33.3444033205,-111.970820185,3.5,205,1,8-21,8-21,8-21,8-21,8-21,8-21,9-19
+5T0h9YCsXiDZyBsVIN9gcg,"Viet Bistro","","7175 W Lake Mead Blvd",Las Vegas,NV,89128,36.1953124953,-115.248178026,3.5,278,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+zaLFPpm-t89qSDOaFVgwDQ,"Bad Daddy's Burger Bar","","Charlotte Douglas Int'l Airport, 5501 R C Josh Birmingham, Concourse C",Charlotte,NC,28208,35.2193592508,-80.9425663948,3.0,241,1,6-22,6-22,6-22,6-22,6-22,6-22,6-22
+ibf4xvHWD4t1DOOZhidHBg,"Modern Margarita","","5410 E High St, Ste 115",Phoenix,AZ,85054,33.6759107,-111.9644412,3.5,287,1,11-22,11-0,11-0,11-1,11-2,11-2,11-22
+59YbAeuiz0isJtRNKATTKw,"Bacon Bar","Northwest","3520 N Rancho Dr",Las Vegas,NV,89130,36.2234643,-115.2173158,3.5,243,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+eSENXDnnNSo-MLLkWJQ8Vg,"La Santisima","","5932 W Glendale Ave",Glendale,AZ,85301,33.5388171,-112.1880667,4.0,222,1,11-21,11-21,11-21,11-21,11-21,11-20,11-21
+g3g3dWFoVSYhXQTs4ctGyg,"Bond","The Strip","The Cosmopolitan Of Las Vegas, 3708 Las Vegas Blvd S",Las Vegas,NV,89109,36.1098756593,-115.174048043,4.0,229,1,11-5,11-5,11-5,11-5,11-5,10-5,10-5
+vQq_sX0kSAUdT3yLW06q5A,"The Blind Pig","","3370 N Hayden Rd",Scottsdale,AZ,85251,33.4869166768,-111.910329919,4.0,280,1,11-21,11-21,11-21,11-21,12-22,12-22,9-21
+HFEkIohUqGIudgqbHiK1uA,"The Cracked Egg","Centennial","5570 Painted Mirage, #140",Las Vegas,NV,89149,36.2624124,-115.2563524,3.5,225,1,6-14,6-14,6-14,6-14,6-14,6-15,6-15
+EkuSy_kM8dpGrlb2pTxCBw,"Ginseng Korean BBQ II","The Strip","3765 S Las Vegas Blvd",Las Vegas,NV,89109,36.1050193,-115.171768,3.0,240,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+AOEjA6yCT2htzQCfbPy7vA,"Lush Burger","","18251 N Pima Rd",Scottsdale,AZ,85255,33.6524163,-111.8866493,3.0,258,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+E67gGK8yOn9kkNzx8FzQKA,"Buffalo Wild Wings","Spring Valley","4280 Hualapi, #108",Las Vegas,NV,89147,36.1120909,-115.3142768,3.0,219,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+vyQD-pu9jFKRXWI9tt16_Q,"Shakespeare's Grille & Pub","Anthem","790 Coronado Center Dr, Ste 130",Henderson,NV,89052,36.0029432795,-115.107695315,4.0,222,1,10-2,10-2,10-2,10-2,10-3,8-3,8-2
+xImiQIhC2ZBDEy7LhpQ4nQ,"Cowboy Ciao","","Phoenix Sky Harbor, 3800 E Sky Harbor Blvd, Terminal 4, Gate B21",Phoenix,AZ,85034,33.437267855,-111.99438894,4.0,278,1,6-22,6-22,6-22,6-22,6-22,6-22,6-22
+j0_DUr3vBXY-JP-b0bf93A,"Cartel Coffee Lab","","1 North 1st St",Phoenix,AZ,85004,33.4485961,-112.0721686,4.0,224,1,7-16,7-16,7-16,7-16,7-16,7-16,7-16
+uh7DUWtPoZkuEE05fghJ_w,"Beauty & Essex","The Strip","3708 S Las Vegas Blvd",Las Vegas,NV,89109,36.1099345,-115.1754157,4.0,247,1,17-1,17-0,17-0,17-0,17-1,17-1,17-0
+ACb637NG7EnswRs8U_BX_w,"Bar Louie","","2000 Rio Salado Pkwy, Ste 1220",Tempe,AZ,85281,33.4329500215,-111.905601025,3.0,252,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+R0iz7n80-mDo2_uL_Q5ANg,"Oak and Ivy","Downtown","Downtown Container Park, 707 Fremont St",Las Vegas,NV,89101,36.1679027,-115.1380764,4.5,202,1,15-23,15-23,15-23,11-23,11-1,11-1,11-23
+mqqpu_OBoaQmtA4wFfG-Yg,"Z'Tejas Mexican Restaurant and Grill","","7014 E Camelback Rd",Scottsdale,AZ,85251,33.5023225,-111.9287986,3.5,212,1,11-22,11-22,11-22,11-22,11-23,11-23,11-21
+wUPoQpzy_LKWMO_pgBgkBg,"BJ's Restaurant & Brewhouse","","9748 W. Northern Ave.",Peoria,AZ,85345,33.551939,-112.269247,3.5,243,1,11-23,11-23,11-23,11-23,11-1,10-1,10-23
+qO_nFskODvrG9O8SNdUY7g,"Haymaker Restaurant","","1800 N Litchfield Rd",Goodyear,AZ,85395,33.4664613,-112.3588235,3.5,249,1,7-21,7-21,7-21,7-21,7-22,7-22,7-21
+S599hCA4kJJO3_b6SRFKoA,"Michoacan Gourmet Mexican Restaurant","Centennial","7870 W Tropical Pkwy",Las Vegas,NV,89149,36.2713574092,-115.266850034,3.5,287,1,11-21,11-21,11-21,11-21,11-22,11-22,8-21
+sB1lPLICz4nrOuuqgLv50A,"Morton's The Steakhouse","Eastside","400 E Flamingo Rd",Las Vegas,NV,89169,36.114686,-115.1531337,4.0,219,1,17-23,17-23,17-23,17-23,16-23,16-23,17-22
+VbqtbvvtNOe-YKA61-fSNA,"Armadillo Grill","","1904 E Camelback Rd",Phoenix,AZ,85016,33.509564,-112.0408787,4.0,242,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+Z2iYtj0ybh_ovOyRD8bjMg,"Atomic Liquors","Downtown","917 Fremont St",Las Vegas,NV,89101,36.1667632,-115.1355286,4.5,226,1,16-2,16-2,16-2,14-3,14-4,12-4,12-2
+L3R7y3_tUKQlM9kor4-Ccw,"Jamie's Italian","","Yorkdale Shopping Centre, 3401 Dufferin Street, Unit 20",Toronto,ON,M6A 2T9,43.7266461513,-79.4530578107,3.0,216,1,11-23,11-23,11-23,11-23,11-23,11-23,11-23
+YXa0A7aXV9wWNR0qJVVSDg,"Bad Daddy's Burger Bar","Ballantyne","15105 John J Delaney Dr, Ste A",Charlotte,NC,28277,35.0527702324,-80.8474124496,4.0,248,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+zT45hBptOygpgCddHZRsjA,"Changing Hands Bookstore","","6428 S McClintock Dr",Tempe,AZ,85283,33.3624661,-111.9126201,4.5,242,1,10-21,10-21,10-21,10-21,10-21,9-21,10-18
+EQCd_CUFrK_gSARL7s01fw,"La Distillerie No.1","Ville-Marie","300 Rue Ontario Est",Montréal,QC,H2X 1H6,45.514786,-73.565361,4.5,208,1,16-3,16-3,16-3,16-3,16-3,16-3,16-3
+wu5nk3pY1e_ou_Le_U52Sw,"Cheba Hut","","1710 W Southern Ave",Mesa,AZ,85202,33.393227,-111.868642,4.5,242,1,10-0,10-0,10-0,10-0,10-0,10-0,10-0
+ZDDzKXN_JXe7694zePRuTQ,"Chatime - Dundas","Discovery District","132 Dundas Street W",Toronto,ON,M5G 1C3,43.6556573,-79.384737,4.0,263,1,11-0,11-0,11-0,11-0,11-1,11-1,11-0
+as_fyujgsdwtV56n31z-Sw,"Bomba Tacos & Rum","","19880 Detroit Rd",Rocky River,OH,44116,41.4795046,-81.8414304,3.5,207,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+DqcD3YflYhArFsC4KVUnOw,"Nothing Bundt Cakes","Southeast","9711 S. Eastern Avenue, #H10",Las Vegas,NV,89183,36.0126441,-115.1196051,4.5,209,1,9-18,9-18,9-18,9-18,9-18,9-18,10-16
+pRmb8_tAP5y4YPt_viL07g,"Whole Foods Market","Westside","8855 W Charleston Blvd",Las Vegas,NV,89117,36.1577579052,-115.288262449,4.0,201,1,8-22,8-22,8-22,8-22,8-22,8-22,8-22
+lvuuyYZ-CzFrg1BLdV2OPw,"Libre Mexican Cantina","South Summerlin","11011 W Charleston Blvd",Las Vegas,NV,89135,36.1569658,-115.3335939,4.0,244,1,16-22,16-22,16-22,16-22,16-23,11-23,16-22
+fL2vdjn-ApNcsVntxtg4Dg,"Fiesta Henderson","","777 W Lake Mead Pkwy",Henderson,NV,89015,36.031979,-115.009344,2.5,203,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+qVO3l9Q0-KVQE7W9JL9ePw,"Greenland Supermarket","Chinatown","6850 Spring Mountain Rd",Las Vegas,NV,89146,36.127061,-115.241457,4.0,267,1,8-23,8-23,8-23,8-23,8-23,8-23,8-23
+Cf0iV72DTqR0ggBje2d0sg,"Espresso A Mano","Lawrenceville","3623 Butler St",Pittsburgh,PA,15201,40.4660716,-79.9650912,4.5,255,1,7-21,7-21,7-21,7-21,7-21,8-21,8-18
+fo0I_-vX1xNsjS2JcnhlMw,"Dutch Bros Coffee","","4 W Camelback Rd",Phoenix,AZ,85013,33.5094883,-112.0742698,4.5,220,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+IZNhxNgoIQL4tt0Ync8g4Q,"HI-Scores Bar-Arcade","","65 S Stephanie St",Henderson,NV,89012,36.0258847,-115.0479701,3.5,200,1,10-2,10-2,10-2,10-2,10-2,10-2,10-2
+w2yx8dfNXi3TcPZSdQOw3A,"Metro Pizza","","1420 W Horizon Ridge Pkwy",Henderson,NV,89012,36.021803963,-115.048688312,3.5,294,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
+c4KXpCou6HBOgfKp2z2_hw,"Terrace Restaurants - Ballantyne","Ballantyne","14815 Ballantyne Village Way, Ste 150",Charlotte,NC,28277,35.0534750679,-80.8516094545,4.0,252,1,8-21,8-21,8-21,8-21,8-22,8-22,8-21
+_jsxUnZ8Iq8_kZNQcnzyrQ,"Aliante Casino + Hotel + Spa","","7300 N Aliante Pkwy",North Las Vegas,NV,89084,36.2919853,-115.1806678,3.5,236,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+uC3qwaxsOkdJzpOc0v1Mog,"Cafe Hollander","","726 N Midvale Blvd",Madison,WI,53705,43.0729630383,-89.4538805487,3.5,252,1,8-0,8-0,8-0,8-0,8-0,8-0,8-0
+LBBp51YHui5gvXNSyUcLKg,"Valle Luna Mexican Restaurant","","1949 W Ray Rd",Chandler,AZ,85224,33.3191497,-111.8740975,3.5,275,1,11-22,11-22,11-22,11-22,11-0,11-0,11-22
+1FlIbmN4aNJuXsGK0shnfQ,"Leroy Fox","Cotswold","705 S Sharon Amity Rd",Charlotte,NC,28211,35.1718223,-80.8071432,3.5,220,1,11-0,11-0,11-0,11-1,11-2,11-2,10-0
+lkjgZcgbpbYR_mXoGXWmQw,"RA Sushi Bar Restaurant","","1652 S Val Vista Dr, Ste 101",Mesa,AZ,85204,33.3853255,-111.7558768,3.5,203,1,11-0,11-0,11-0,11-0,11-1,11-1,11-0
+0J_NiF5Lb0bFM5v6ZY-uGw,"Zet's Restaurant","","6445 Airport Road",Mississauga,ON,L4V 1Y4,43.6930603,-79.6273534,4.0,219,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+H8RPjZJMrDC7nNcx2S6nHQ,"Living Spaces","","16275 N Scottsdale Rd",Scottsdale,AZ,85260,33.6345174187,-111.919635259,2.5,223,1,10-21,10-21,10-21,10-21,10-21,9-21,9-21
+7ZUYzw56X2WPcjmEWI6zIA,"Trader Joe's","Westside","2101 S Decatur Blvd",Las Vegas,NV,89102,36.1486584,-115.2098129,4.5,217,1,8-20,8-20,8-20,8-20,8-20,8-20,8-20
+4twpbw7n4DmsLxAm6-sMkg,"Seor Ak San","Chinatown","357 Spadina Avenue",Toronto,ON,M5T,43.655494,-79.3989165,4.0,207,1,11-23,11-23,11-23,11-23,11-23,11-23,11-23
+jGlk7K1-IB8XyhlBEmeEHQ,"Eco Friend Carpet Care","Southwest","9154 Badby Ave",Las Vegas,NV,89148,36.053305,-115.291601,5.0,233,1,9-17,9-17,9-17,9-17,9-17,9-17,8-16
+kPorLswaS8h4xy-notLk9Q,"Arizona Science Center","","600 E Washington St",Phoenix,AZ,85004,33.4486735,-112.066671,4.0,279,1,10-17,10-17,10-17,10-17,10-17,10-17,10-17
+zOL260xaXDYZZPBItzALxQ,"MacAlpine's Soda Fountain","","2303 N 7th St",Phoenix,AZ,85006,33.4732278,-112.0647459,4.0,275,1,11-19,11-19,11-19,11-19,11-20,11-20,11-19
+BOQOuwSNhfKx1xvKtONsBg,"Settebello Pizzeria Napoletana","Westside","9350 W Sahara Ave, Ste 170",Las Vegas,NV,89117,36.1472606377,-115.299658589,4.0,269,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+3saG51hM2M14G5f-QwhGhg,"Melt","","910 N 5th St",Phoenix,AZ,85004,33.458066,-112.067834,4.0,267,1,12-0,12-0,12-0,12-0,12-0,12-0,12-0
+N8ArHOgRDI8wOJIOZaEHyg,"Olive Garden Italian Restaurant","","4400 E. Sunset Rd.",Henderson,NV,89014,36.0714455193,-115.077228885,3.5,211,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+LGEIsxeJQATo9J1IA-TEdA,"Fajitas A Sizzlin Celebration","","9841 N Black Canyon Hwy",Phoenix,AZ,85021,33.5764031,-112.1162617,3.5,219,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+6g2EQgi1QiXcp9TvbyG-Ig,"Sixt rent a car","Southeast","220 E Warm Springs Rd",Las Vegas,NV,89119,36.05757,-115.162776,2.5,229,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+sQV-yfhFjeRWnHw66n8qrQ,"The Keg Steakhouse + Bar","","3065 W Chandler Blvd",Chandler,AZ,85226,33.3052421,-111.896515,4.0,234,1,16-23,16-23,16-23,16-23,16-23,16-23,16-22
+xpocpPlEWaQygGMLSvjelQ,"Dolce Salon & Spa","","3325 W Chandler Blvd, Ste 1",Chandler,AZ,85226,33.3045852185,-111.899208853,3.5,289,1,8-21,8-21,8-21,8-21,8-21,8-21,9-18
+9NaZIhfRPkxRJn1eA9zrTA,"Saddle Mountain Brewing Company","","15651 W Roosevelt St",Goodyear,AZ,85338,33.4565678849,-112.395537819,4.0,280,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+DMmeFKsUuMl0kDy7Zd7W3A,"Sandbar Mexican Grill","","7200 W. Ray Road",Chandler,AZ,85226,33.3204996528,-111.96630916,3.0,253,1,11-2,11-2,11-2,11-2,11-2,11-2,11-2
+zEOfVGv6DeprEzmFYMFhXA,"Outback Steakhouse","","521 N Stephanie St",Henderson,NV,89014,36.0576865,-115.0468364,3.5,232,1,11-22,11-22,11-22,11-22,11-23,11-23,11-22
+7aZf5c1UNotq4MabBXMZLA,"Sichuan Gourmet","Squirrel Hill","1900 Murray Ave",Pittsburgh,PA,15217,40.4358112,-79.923142,4.0,204,1,11-21,11-21,11-21,11-21,11-22,11-22,12-21
+10tJuB_YkVQWuk4PtoI7iA,"Intermezzo Pizzeria and Cafe","Plaza Midwood","1427 E 10th St",Charlotte,NC,28204,35.2221517,-80.8216842,4.0,218,1,11-0,11-0,11-0,11-0,11-0,11-0,12-0
+qJf61TR4Jq9Xph5RiXPS9A,"Cupz N' Crepes","","4232 E Chandler Blvd",Ahwatukee,AZ,85048,33.305824,-111.991311,4.0,236,1,7-15,7-15,7-15,7-15,7-15,8-15,8-15
+tMYYSWyTppDcF070Hmy-kQ,"Blue Ribbon Fried Chicken","South Summerlin","Downtown Summerlin, 1770 Festival Plaza Dr",Las Vegas,NV,89135,36.1517914562,-115.332706822,3.5,272,1,11-21,11-21,11-21,11-21,11-22,11-22,11-21
+BSDKbSLFO3CP-uhfcuUCkA,"Dave & Buster's","South Summerlin","2130 Park Centre Dr, Ste 100",Las Vegas,NV,89135,36.1486189,-115.332454,2.5,213,1,11-0,11-0,11-0,11-0,11-2,11-2,11-0
+9p-cpmHaga-EXyc6ZzYCcQ,"Velveteen Rabbit","Downtown","1218 S Main St",Las Vegas,NV,89104,36.156592376,-115.153890252,4.5,239,1,17-1,17-1,17-2,17-2,17-2,17-2,17-0
+6nbmlMVmbifIjrEEbCaA6w,"Old Town Sarajevo","","3411 W Northern Ave, Ste B",Phoenix,AZ,85051,33.5527212,-112.1325882,4.5,217,1,9-21,9-21,9-21,9-21,9-21,9-21,9-19
+wY3dlpLa0BHfDENYAPYuZA,"Ten Penny","Downtown","960 Penn Ave",Pittsburgh,PA,15222,40.4444316,-79.9956094,3.0,281,1,11-23,11-23,11-23,11-23,11-23,10-23,10-23
+trodK1jXLGIn5qjJCooIpQ,"Rooster's at Southpark","South Park","6601 Morrison Blvd",Charlotte,NC,28211,35.153958,-80.8278787,4.0,225,1,11-22,11-22,11-22,11-22,11-23,11-23,11-21
+Vbkb2shDxUE8H3PzrFnypA,"Ella's Deli","Eken Park","2902 E Washington Ave",Madison,WI,53704,43.1035133,-89.344598,3.0,214,1,10-21,10-21,10-21,10-21,10-22,10-22,10-21
+ZosrzTfiiPhbURA04AQTUA,"Pyramid Cafe","The Strip","3900 Las Vegas Blvd S",Las Vegas,NV,89109,36.0953641961,-115.175830263,3.0,241,1,7-13,7-13,7-13,7-13,7-14,7-14,7-14
+z0cjTX7o6gJsXm2hWHaKGw,"Sambalatte","The Strip","3770 Las Vegas Blvd S",Las Vegas,NV,89109,36.1044734801,-115.173704358,4.0,288,1,7-22,7-22,7-22,7-22,7-22,7-22,7-22
+o6Yor6ofIw2TqM3mN28Kzg,"Tacos El Asador","Koreatown","689 Bloor St W",Toronto,ON,M6G 1L2,43.6638623,-79.4169921,4.0,217,1,12-21,12-21,12-21,12-21,12-21,12-21,14-21
+e1RcTvtihmYdf8At7hLgRw,"JACK Cleveland Casino","Tower City","100 Public Square",Cleveland,OH,44113,41.4978929169,-81.692509473,3.0,216,1,0-0,0-0,0-0,0-0,0-0,0-0,0-0
+Fozo0B-y42EhRMomR0K5vQ,"Waffallonia","Squirrel Hill","1707 Murray Ave",Pittsburgh,PA,15217,40.4377293,-79.9227349,4.5,224,1,11-22,11-22,11-22,11-22,11-23,9-23,9-22
+HaPwC4nxs6RPfe1pAQkQ4A,"Mastrioni's","Spring Valley","3330 S Hualapai Way, Ste 160",Las Vegas,NV,89117,36.1291479,-115.3145433,4.0,246,1,11-22,11-22,11-22,11-22,11-22,16-22,17-21
+JwyH48vqADWY6HieOMDxgQ,"My Big Fat Greek Restaurant","","525 S Mill Ave",Tempe,AZ,85281,33.4246763733,-111.939850896,3.5,239,1,11-23,11-23,11-23,11-23,11-0,11-0,11-23
+0xfVubbU3z8O2NcuEYSQNg,"Sushi 101 Bar and Grill","","920 E University Dr, Ste D101",Tempe,AZ,85281,33.4223065921,-111.925790447,3.5,255,1,11-23,11-23,11-23,11-0,11-0,12-0,12-22
+ho1vUk9R7Ole9aNmX6NMDA,"American Airlines","","4000 E Sky Harbor Blvd",Phoenix,AZ,85034,33.4360502,-111.994973,1.5,243,1,4-0,4-0,4-0,4-0,4-0,4-0,4-0
+nMaIIKEAW2cTEWbEyeFyXQ,"Surang's Thai Kitchen","Spring Valley","5455 S Fort Apache Rd, Ste 105",Las Vegas,NV,89148,36.089564,-115.2974352,4.0,207,1,11-22,11-22,11-22,11-22,11-22,11-22,11-22
